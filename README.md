@@ -1,4 +1,4 @@
-# MOTCat
+# MCTI
 <details>
 <summary>
   <b>Multimodal Cross-Task Interaction for Survival Analysis in Whole Slide Pathological Images</b>, MICCAI 2024.
