@@ -1,0 +1,185 @@
+,Patient ID,Subtype,cls_label,censor,survival_months
+0,TCGA-2H-A9GF,Esophageal Adenocarcinoma,0,0,25.76
+1,TCGA-2H-A9GG,Esophageal Adenocarcinoma,0,0,20.04
+2,TCGA-2H-A9GH,Esophageal Adenocarcinoma,0,0,31.24
+3,TCGA-2H-A9GI,Esophageal Adenocarcinoma,0,0,14.29
+4,TCGA-2H-A9GJ,Esophageal Adenocarcinoma,0,0,58.51
+5,TCGA-2H-A9GK,Esophageal Adenocarcinoma,0,0,7.62
+6,TCGA-2H-A9GL,Esophageal Adenocarcinoma,0,0,5.91
+7,TCGA-2H-A9GM,Esophageal Adenocarcinoma,0,0,13.93
+8,TCGA-2H-A9GN,Esophageal Adenocarcinoma,0,0,8.94
+9,TCGA-2H-A9GO,Esophageal Adenocarcinoma,0,0,16.23
+10,TCGA-2H-A9GQ,Esophageal Adenocarcinoma,0,0,4.2
+11,TCGA-2H-A9GR,Esophageal Adenocarcinoma,0,0,32.42
+12,TCGA-IC-A6RE,Esophageal Adenocarcinoma,0,1,7.69
+13,TCGA-IC-A6RF,Esophageal Squamous Cell Carcinoma,1,1,15.67
+14,TCGA-IG-A3I8,Esophageal Squamous Cell Carcinoma,1,1,33.25
+15,TCGA-IG-A3QL,Esophageal Squamous Cell Carcinoma,1,1,35.18
+16,TCGA-IG-A3Y9,Esophageal Squamous Cell Carcinoma,1,0,0.85
+17,TCGA-IG-A3YA,Esophageal Squamous Cell Carcinoma,1,1,20.76
+18,TCGA-IG-A3YB,Esophageal Squamous Cell Carcinoma,1,1,2.63
+19,TCGA-IG-A3YC,Esophageal Squamous Cell Carcinoma,1,1,20.11
+20,TCGA-IG-A4P3,Esophageal Squamous Cell Carcinoma,1,0,18.63
+21,TCGA-IG-A4QS,Esophageal Adenocarcinoma,0,0,3.88
+22,TCGA-IG-A4QT,Esophageal Squamous Cell Carcinoma,1,0,9.3
+23,TCGA-IG-A50L,Esophageal Squamous Cell Carcinoma,1,1,0.53
+24,TCGA-IG-A51D,Esophageal Squamous Cell Carcinoma,1,1,17.02
+25,TCGA-IG-A5B8,Esophageal Squamous Cell Carcinoma,1,0,0.79
+26,TCGA-IG-A5S3,Esophageal Squamous Cell Carcinoma,1,1,23.39
+27,TCGA-IG-A625,Esophageal Squamous Cell Carcinoma,1,0,12.81
+28,TCGA-IG-A6QS,Esophageal Squamous Cell Carcinoma,1,0,9.95
+29,TCGA-IG-A7DP,Esophageal Adenocarcinoma,0,1,14.85
+30,TCGA-IG-A8O2,Esophageal Squamous Cell Carcinoma,1,0,4.66
+31,TCGA-IG-A97H,Esophageal Squamous Cell Carcinoma,1,1,14.49
+32,TCGA-IG-A97I,Esophageal Squamous Cell Carcinoma,1,1,12.16
+33,TCGA-JY-A6F8,Esophageal Adenocarcinoma,0,1,122.01
+34,TCGA-JY-A6FA,Esophageal Squamous Cell Carcinoma,1,0,44.71
+35,TCGA-JY-A6FB,Esophageal Adenocarcinoma,0,1,60.35
+36,TCGA-JY-A6FD,Esophageal Squamous Cell Carcinoma,1,1,67.97
+37,TCGA-JY-A6FE,Esophageal Squamous Cell Carcinoma,1,0,3.68
+38,TCGA-JY-A6FG,Esophageal Squamous Cell Carcinoma,1,0,41.49
+39,TCGA-JY-A6FH,Esophageal Adenocarcinoma,0,1,47.34
+40,TCGA-JY-A938,Esophageal Adenocarcinoma,0,1,34.82
+41,TCGA-JY-A939,Esophageal Adenocarcinoma,0,1,21.68
+42,TCGA-JY-A93C,Esophageal Adenocarcinoma,0,1,23.16
+43,TCGA-JY-A93D,Esophageal Adenocarcinoma,0,0,31.54
+44,TCGA-JY-A93E,Esophageal Adenocarcinoma,0,1,25.2
+45,TCGA-JY-A93F,Esophageal Squamous Cell Carcinoma,1,1,24.01
+46,TCGA-KH-A6WC,Esophageal Squamous Cell Carcinoma,1,1,6.27
+47,TCGA-L5-A43C,Esophageal Adenocarcinoma,0,1,3.15
+48,TCGA-L5-A43E,Esophageal Adenocarcinoma,0,1,30.22
+49,TCGA-L5-A43H,Esophageal Squamous Cell Carcinoma,1,0,0.3
+50,TCGA-L5-A43I,Esophageal Adenocarcinoma,0,0,18.27
+51,TCGA-L5-A43J,Esophageal Squamous Cell Carcinoma,1,0,4.3
+52,TCGA-L5-A43M,Esophageal Adenocarcinoma,0,1,8.94
+53,TCGA-L5-A4OE,Esophageal Adenocarcinoma,0,0,23.98
+54,TCGA-L5-A4OF,Esophageal Adenocarcinoma,0,0,26.31
+55,TCGA-L5-A4OG,Esophageal Adenocarcinoma,0,1,4.7
+56,TCGA-L5-A4OH,Esophageal Adenocarcinoma,0,1,32.59
+57,TCGA-L5-A4OI,Esophageal Adenocarcinoma,0,1,19.97
+58,TCGA-L5-A4OJ,Esophageal Adenocarcinoma,0,1,20.99
+59,TCGA-L5-A4OM,Esophageal Squamous Cell Carcinoma,1,0,47.9
+60,TCGA-L5-A4ON,Esophageal Adenocarcinoma,0,0,18.33
+61,TCGA-L5-A4OO,Esophageal Adenocarcinoma,0,1,3.32
+62,TCGA-L5-A4OP,Esophageal Adenocarcinoma,0,1,7.16
+63,TCGA-L5-A4OQ,Esophageal Adenocarcinoma,0,0,1.38
+64,TCGA-L5-A4OR,Esophageal Adenocarcinoma,0,0,3.15
+65,TCGA-L5-A4OS,Esophageal Adenocarcinoma,0,1,58.54
+66,TCGA-L5-A4OT,Esophageal Adenocarcinoma,0,0,4.89
+67,TCGA-L5-A4OU,Esophageal Adenocarcinoma,0,1,28.98
+68,TCGA-L5-A4OW,Esophageal Adenocarcinoma,0,0,7.13
+69,TCGA-L5-A4OX,Esophageal Adenocarcinoma,0,0,7.42
+70,TCGA-L5-A88S,Esophageal Squamous Cell Carcinoma,1,1,15.47
+71,TCGA-L5-A88T,Esophageal Adenocarcinoma,0,1,22.8
+72,TCGA-L5-A88V,Esophageal Adenocarcinoma,0,1,2.6
+73,TCGA-L5-A88W,Esophageal Squamous Cell Carcinoma,1,0,25.1
+74,TCGA-L5-A88Y,Esophageal Adenocarcinoma,0,1,0.36
+75,TCGA-L5-A88Z,Esophageal Squamous Cell Carcinoma,1,1,7.39
+76,TCGA-L5-A891,Esophageal Adenocarcinoma,0,1,3.75
+77,TCGA-L5-A893,Esophageal Adenocarcinoma,0,1,3.02
+78,TCGA-L5-A8NE,Esophageal Adenocarcinoma,0,1,55.45
+79,TCGA-L5-A8NF,Esophageal Adenocarcinoma,0,0,2.66
+80,TCGA-L5-A8NG,Esophageal Adenocarcinoma,0,1,35.94
+81,TCGA-L5-A8NH,Esophageal Adenocarcinoma,0,0,12.91
+82,TCGA-L5-A8NI,Esophageal Adenocarcinoma,0,0,13.47
+83,TCGA-L5-A8NJ,Esophageal Adenocarcinoma,0,1,16.46
+84,TCGA-L5-A8NK,Esophageal Squamous Cell Carcinoma,1,1,13.53
+85,TCGA-L5-A8NL,Esophageal Adenocarcinoma,0,1,13.21
+86,TCGA-L5-A8NM,Esophageal Adenocarcinoma,0,0,7.75
+87,TCGA-L5-A8NN,Esophageal Adenocarcinoma,0,1,5.49
+88,TCGA-L5-A8NQ,Esophageal Squamous Cell Carcinoma,1,0,21.35
+89,TCGA-L5-A8NR,Esophageal Adenocarcinoma,0,1,8.71
+90,TCGA-L5-A8NS,Esophageal Adenocarcinoma,0,1,13.4
+91,TCGA-L5-A8NT,Esophageal Adenocarcinoma,0,1,27.1
+92,TCGA-L5-A8NU,Esophageal Adenocarcinoma,0,0,83.18
+93,TCGA-L5-A8NV,Esophageal Adenocarcinoma,0,0,52.53
+94,TCGA-L5-A8NW,Esophageal Adenocarcinoma,0,0,46.06
+95,TCGA-L7-A56G,Esophageal Squamous Cell Carcinoma,1,0,10.84
+96,TCGA-L7-A6VZ,Esophageal Adenocarcinoma,0,1,10.35
+97,TCGA-LN-A49K,Esophageal Squamous Cell Carcinoma,1,0,5.91
+98,TCGA-LN-A49L,Esophageal Squamous Cell Carcinoma,1,0,10.45
+99,TCGA-LN-A49M,Esophageal Squamous Cell Carcinoma,1,1,12.65
+100,TCGA-LN-A49N,Esophageal Squamous Cell Carcinoma,1,1,12.42
+101,TCGA-LN-A49O,Esophageal Squamous Cell Carcinoma,1,1,13.4
+102,TCGA-LN-A49P,Esophageal Squamous Cell Carcinoma,1,1,12.32
+103,TCGA-LN-A49R,Esophageal Squamous Cell Carcinoma,1,1,13.37
+104,TCGA-LN-A49S,Esophageal Squamous Cell Carcinoma,1,1,13.14
+105,TCGA-LN-A49U,Esophageal Squamous Cell Carcinoma,1,1,15.34
+106,TCGA-LN-A49V,Esophageal Squamous Cell Carcinoma,1,1,12.58
+107,TCGA-LN-A49W,Esophageal Squamous Cell Carcinoma,1,1,13.24
+108,TCGA-LN-A49X,Esophageal Squamous Cell Carcinoma,1,1,12.61
+109,TCGA-LN-A49Y,Esophageal Squamous Cell Carcinoma,1,1,12.45
+110,TCGA-LN-A4A1,Esophageal Squamous Cell Carcinoma,1,1,12.58
+111,TCGA-LN-A4A2,Esophageal Squamous Cell Carcinoma,1,1,12.48
+112,TCGA-LN-A4A3,Esophageal Squamous Cell Carcinoma,1,1,12.75
+113,TCGA-LN-A4A4,Esophageal Squamous Cell Carcinoma,1,1,12.58
+114,TCGA-LN-A4A5,Esophageal Squamous Cell Carcinoma,1,0,22.37
+115,TCGA-LN-A4A6,Esophageal Squamous Cell Carcinoma,1,1,12.84
+116,TCGA-LN-A4A8,Esophageal Squamous Cell Carcinoma,1,1,15.51
+117,TCGA-LN-A4A9,Esophageal Squamous Cell Carcinoma,1,0,11.53
+118,TCGA-LN-A4MQ,Esophageal Squamous Cell Carcinoma,1,1,12.32
+119,TCGA-LN-A4MR,Esophageal Squamous Cell Carcinoma,1,1,13.21
+120,TCGA-LN-A5U5,Esophageal Squamous Cell Carcinoma,1,0,4.47
+121,TCGA-LN-A5U6,Esophageal Squamous Cell Carcinoma,1,1,12.32
+122,TCGA-LN-A5U7,Esophageal Squamous Cell Carcinoma,1,1,25.23
+123,TCGA-LN-A7HV,Esophageal Squamous Cell Carcinoma,1,1,10.51
+124,TCGA-LN-A7HW,Esophageal Squamous Cell Carcinoma,1,1,11.99
+125,TCGA-LN-A7HX,Esophageal Squamous Cell Carcinoma,1,1,12.22
+126,TCGA-LN-A7HY,Esophageal Squamous Cell Carcinoma,1,1,12.02
+127,TCGA-LN-A7HZ,Esophageal Squamous Cell Carcinoma,1,1,13.17
+128,TCGA-LN-A8HZ,Esophageal Squamous Cell Carcinoma,1,1,12.32
+129,TCGA-LN-A8I0,Esophageal Squamous Cell Carcinoma,1,1,13.37
+130,TCGA-LN-A8I1,Esophageal Squamous Cell Carcinoma,1,1,13.17
+131,TCGA-LN-A9FO,Esophageal Squamous Cell Carcinoma,1,1,0.13
+132,TCGA-LN-A9FP,Esophageal Squamous Cell Carcinoma,1,1,12.02
+133,TCGA-LN-A9FQ,Esophageal Squamous Cell Carcinoma,1,1,12.84
+134,TCGA-LN-A9FR,Esophageal Squamous Cell Carcinoma,1,1,12.25
+135,TCGA-M9-A5M8,Esophageal Adenocarcinoma,0,1,33.08
+136,TCGA-Q9-A6FU,Esophageal Squamous Cell Carcinoma,1,0,5.16
+137,TCGA-Q9-A6FW,Esophageal Adenocarcinoma,0,1,7.82
+138,TCGA-R6-A6DN,Esophageal Adenocarcinoma,0,0,7.98
+139,TCGA-R6-A6DQ,Esophageal Adenocarcinoma,0,0,7.59
+140,TCGA-R6-A6KZ,Esophageal Adenocarcinoma,0,0,5.06
+141,TCGA-R6-A6L4,Esophageal Adenocarcinoma,0,0,16.29
+142,TCGA-R6-A6L6,Esophageal Adenocarcinoma,0,0,7.03
+143,TCGA-R6-A6XG,Esophageal Adenocarcinoma,0,1,38.37
+144,TCGA-R6-A6XQ,Esophageal Adenocarcinoma,0,0,6.34
+145,TCGA-R6-A6Y0,Esophageal Adenocarcinoma,0,1,53.91
+146,TCGA-R6-A6Y2,Esophageal Adenocarcinoma,0,0,9.3
+147,TCGA-R6-A8W5,Esophageal Adenocarcinoma,0,0,15.77
+148,TCGA-R6-A8W8,Esophageal Adenocarcinoma,0,0,2.89
+149,TCGA-R6-A8WC,Esophageal Adenocarcinoma,0,1,2.3
+150,TCGA-R6-A8WG,Esophageal Adenocarcinoma,0,0,12.68
+151,TCGA-RE-A7BO,Esophageal Adenocarcinoma,0,0,7.0
+152,TCGA-S8-A6BV,Esophageal Adenocarcinoma,0,1,20.01
+153,TCGA-S8-A6BW,Esophageal Squamous Cell Carcinoma,1,1,20.37
+154,TCGA-V5-A7RB,Esophageal Adenocarcinoma,0,0,5.29
+155,TCGA-V5-A7RC,Esophageal Squamous Cell Carcinoma,1,0,3.42
+157,TCGA-V5-AASV,Esophageal Squamous Cell Carcinoma,1,1,15.34
+158,TCGA-V5-AASW,Esophageal Adenocarcinoma,0,1,9.26
+159,TCGA-V5-AASX,Esophageal Adenocarcinoma,0,1,8.97
+160,TCGA-VR-A8EO,Esophageal Squamous Cell Carcinoma,1,1,25.79
+161,TCGA-VR-A8EP,Esophageal Squamous Cell Carcinoma,1,1,27.07
+162,TCGA-VR-A8EQ,Esophageal Adenocarcinoma,0,0,22.8
+163,TCGA-VR-A8ER,Esophageal Squamous Cell Carcinoma,1,0,12.42
+164,TCGA-VR-A8ET,Esophageal Squamous Cell Carcinoma,1,0,1.54
+165,TCGA-VR-A8EU,Esophageal Squamous Cell Carcinoma,1,0,18.3
+166,TCGA-VR-A8EW,Esophageal Squamous Cell Carcinoma,1,0,8.11
+167,TCGA-VR-A8EX,Esophageal Squamous Cell Carcinoma,1,0,28.09
+168,TCGA-VR-A8EY,Esophageal Squamous Cell Carcinoma,1,1,33.67
+169,TCGA-VR-A8EZ,Esophageal Squamous Cell Carcinoma,1,0,18.17
+170,TCGA-VR-A8Q7,Esophageal Squamous Cell Carcinoma,1,1,52.23
+171,TCGA-VR-AA4D,Esophageal Adenocarcinoma,0,0,46.16
+172,TCGA-VR-AA4G,Esophageal Squamous Cell Carcinoma,1,1,18.04
+173,TCGA-VR-AA7B,Esophageal Squamous Cell Carcinoma,1,1,11.24
+174,TCGA-VR-AA7D,Esophageal Squamous Cell Carcinoma,1,0,9.17
+175,TCGA-VR-AA7I,Esophageal Squamous Cell Carcinoma,1,0,15.9
+176,TCGA-X8-AAAR,Esophageal Adenocarcinoma,0,1,18.2
+177,TCGA-XP-A8T6,Esophageal Squamous Cell Carcinoma,1,0,25.07
+178,TCGA-XP-A8T7,Esophageal Squamous Cell Carcinoma,1,1,41.2
+179,TCGA-XP-A8T8,Esophageal Squamous Cell Carcinoma,1,1,14.36
+180,TCGA-Z6-A8JD,Esophageal Squamous Cell Carcinoma,1,1,3.42
+181,TCGA-Z6-A8JE,Esophageal Squamous Cell Carcinoma,1,1,2.1
+182,TCGA-Z6-A9VB,Esophageal Squamous Cell Carcinoma,1,1,1.31
+183,TCGA-Z6-AAPN,Esophageal Squamous Cell Carcinoma,1,1,2.66
+184,TCGA-ZR-A9CJ,Esophageal Adenocarcinoma,0,0,19.71

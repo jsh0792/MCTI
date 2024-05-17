@@ -1,0 +1,1007 @@
+,Patient ID,Subtype,cls_label,censor,survival_months
+0,TCGA-05-4245,Lung Adenocarcinoma,0,1,23.98
+1,TCGA-05-4249,Lung Adenocarcinoma,0,1,50.03
+2,TCGA-05-4250,Lung Adenocarcinoma,0,0,3.98
+3,TCGA-05-4382,Lung Adenocarcinoma,0,1,19.94
+4,TCGA-05-4384,Lung Adenocarcinoma,0,1,13.99
+5,TCGA-05-4389,Lung Adenocarcinoma,0,1,44.97
+6,TCGA-05-4390,Lung Adenocarcinoma,0,1,36.99
+7,TCGA-05-4396,Lung Adenocarcinoma,0,0,9.95
+8,TCGA-05-4397,Lung Adenocarcinoma,0,0,24.01
+9,TCGA-05-4398,Lung Adenocarcinoma,0,1,47.01
+10,TCGA-05-4402,Lung Adenocarcinoma,0,0,8.02
+11,TCGA-05-4403,Lung Adenocarcinoma,0,1,18.99
+12,TCGA-05-4405,Lung Adenocarcinoma,0,1,20.04
+13,TCGA-05-4415,Lung Adenocarcinoma,0,0,2.99
+14,TCGA-05-4417,Lung Adenocarcinoma,0,1,14.95
+15,TCGA-05-4418,Lung Adenocarcinoma,0,0,9.0
+16,TCGA-05-4420,Lung Adenocarcinoma,0,1,29.96
+17,TCGA-05-4422,Lung Adenocarcinoma,0,1,11.99
+18,TCGA-05-4424,Lung Adenocarcinoma,0,1,29.99
+19,TCGA-05-4425,Lung Adenocarcinoma,0,1,21.98
+20,TCGA-05-4426,Lung Adenocarcinoma,0,1,25.99
+21,TCGA-05-4427,Lung Adenocarcinoma,0,1,25.99
+22,TCGA-05-4430,Lung Adenocarcinoma,0,1,25.0
+23,TCGA-05-4432,Lung Adenocarcinoma,0,1,25.0
+24,TCGA-05-4433,Lung Adenocarcinoma,0,1,23.98
+25,TCGA-05-4434,Lung Adenocarcinoma,0,0,15.01
+26,TCGA-05-5420,Lung Adenocarcinoma,0,1,15.01
+27,TCGA-05-5423,Lung Adenocarcinoma,0,1,4.96
+28,TCGA-05-5425,Lung Adenocarcinoma,0,1,28.98
+29,TCGA-05-5428,Lung Adenocarcinoma,0,1,22.01
+30,TCGA-05-5429,Lung Adenocarcinoma,0,0,9.03
+31,TCGA-05-5715,Lung Adenocarcinoma,0,1,2.04
+32,TCGA-35-3615,Lung Adenocarcinoma,0,1,0.46
+33,TCGA-35-4122,Lung Adenocarcinoma,0,1,7.39
+34,TCGA-35-4123,Lung Adenocarcinoma,0,1,5.98
+35,TCGA-35-5375,Lung Adenocarcinoma,0,1,8.67
+36,TCGA-38-4625,Lung Adenocarcinoma,0,1,97.67
+37,TCGA-38-4626,Lung Adenocarcinoma,0,1,120.7
+38,TCGA-38-4627,Lung Adenocarcinoma,0,0,37.68
+39,TCGA-38-4628,Lung Adenocarcinoma,0,0,49.01
+40,TCGA-38-4629,Lung Adenocarcinoma,0,0,28.38
+41,TCGA-38-4630,Lung Adenocarcinoma,0,0,35.25
+42,TCGA-38-4631,Lung Adenocarcinoma,0,0,11.63
+43,TCGA-38-4632,Lung Adenocarcinoma,0,0,44.58
+44,TCGA-38-6178,Lung Adenocarcinoma,0,1,14.72
+45,TCGA-38-7271,Lung Adenocarcinoma,0,0,26.28
+46,TCGA-38-A44F,Lung Adenocarcinoma,0,1,4.37
+47,TCGA-44-2655,Lung Adenocarcinoma,0,1,43.5
+48,TCGA-44-2656,Lung Adenocarcinoma,0,1,46.94
+49,TCGA-44-2657,Lung Adenocarcinoma,0,1,44.38
+50,TCGA-44-2659,Lung Adenocarcinoma,0,1,44.91
+51,TCGA-44-2661,Lung Adenocarcinoma,0,1,38.07
+52,TCGA-44-2662,Lung Adenocarcinoma,0,1,42.05
+53,TCGA-44-2664,Lung Adenocarcinoma,0,1,41.1
+54,TCGA-44-2665,Lung Adenocarcinoma,0,1,42.74
+55,TCGA-44-2666,Lung Adenocarcinoma,0,0,3.19
+56,TCGA-44-2668,Lung Adenocarcinoma,0,0,25.0
+57,TCGA-44-3396,Lung Adenocarcinoma,0,1,37.12
+58,TCGA-44-3398,Lung Adenocarcinoma,0,1,38.21
+59,TCGA-44-3917,Lung Adenocarcinoma,0,1,38.86
+60,TCGA-44-3918,Lung Adenocarcinoma,0,1,34.03
+61,TCGA-44-3919,Lung Adenocarcinoma,0,0,33.71
+62,TCGA-44-4112,Lung Adenocarcinoma,0,0,26.54
+63,TCGA-44-5643,Lung Adenocarcinoma,0,1,33.28
+64,TCGA-44-5644,Lung Adenocarcinoma,0,1,28.35
+65,TCGA-44-5645,Lung Adenocarcinoma,0,1,27.99
+66,TCGA-44-6144,Lung Adenocarcinoma,0,1,23.75
+67,TCGA-44-6145,Lung Adenocarcinoma,0,1,19.55
+68,TCGA-44-6146,Lung Adenocarcinoma,0,1,23.92
+69,TCGA-44-6147,Lung Adenocarcinoma,0,1,27.76
+70,TCGA-44-6148,Lung Adenocarcinoma,0,1,23.13
+71,TCGA-44-6774,Lung Adenocarcinoma,0,1,21.62
+72,TCGA-44-6775,Lung Adenocarcinoma,0,1,23.16
+73,TCGA-44-6776,Lung Adenocarcinoma,0,1,85.94
+74,TCGA-44-6777,Lung Adenocarcinoma,0,0,32.42
+75,TCGA-44-6778,Lung Adenocarcinoma,0,1,61.24
+76,TCGA-44-6779,Lung Adenocarcinoma,0,0,16.43
+77,TCGA-44-7659,Lung Adenocarcinoma,0,1,22.7
+78,TCGA-44-7660,Lung Adenocarcinoma,0,1,19.45
+79,TCGA-44-7661,Lung Adenocarcinoma,0,0,18.3
+80,TCGA-44-7662,Lung Adenocarcinoma,0,1,7.16
+81,TCGA-44-7667,Lung Adenocarcinoma,0,1,36.04
+82,TCGA-44-7669,Lung Adenocarcinoma,0,0,18.86
+83,TCGA-44-7670,Lung Adenocarcinoma,0,1,28.98
+84,TCGA-44-7671,Lung Adenocarcinoma,0,1,29.2
+85,TCGA-44-7672,Lung Adenocarcinoma,0,1,23.62
+86,TCGA-44-8117,Lung Adenocarcinoma,0,1,12.65
+87,TCGA-44-8119,Lung Adenocarcinoma,0,1,9.36
+88,TCGA-44-8120,Lung Adenocarcinoma,0,1,8.54
+89,TCGA-44-A479,Lung Adenocarcinoma,0,1,15.97
+90,TCGA-44-A47A,Lung Adenocarcinoma,0,1,15.31
+91,TCGA-44-A47B,Lung Adenocarcinoma,0,1,9.43
+92,TCGA-44-A47F,Lung Adenocarcinoma,0,1,11.07
+93,TCGA-44-A47G,Lung Adenocarcinoma,0,1,11.53
+94,TCGA-44-A4SS,Lung Adenocarcinoma,0,1,13.63
+95,TCGA-44-A4SU,Lung Adenocarcinoma,0,0,13.44
+96,TCGA-49-4486,Lung Adenocarcinoma,0,0,76.15
+97,TCGA-49-4487,Lung Adenocarcinoma,0,0,28.09
+98,TCGA-49-4488,Lung Adenocarcinoma,0,0,28.55
+99,TCGA-49-4490,Lung Adenocarcinoma,0,0,12.65
+100,TCGA-49-4494,Lung Adenocarcinoma,0,0,35.51
+101,TCGA-49-4501,Lung Adenocarcinoma,0,0,46.68
+102,TCGA-49-4505,Lung Adenocarcinoma,0,0,14.06
+103,TCGA-49-4506,Lung Adenocarcinoma,0,0,32.82
+104,TCGA-49-4507,Lung Adenocarcinoma,0,0,8.8
+105,TCGA-49-4510,Lung Adenocarcinoma,0,0,29.43
+106,TCGA-49-4512,Lung Adenocarcinoma,0,0,29.73
+107,TCGA-49-4514,Lung Adenocarcinoma,0,1,55.85
+108,TCGA-49-6742,Lung Adenocarcinoma,0,0,16.03
+109,TCGA-49-6743,Lung Adenocarcinoma,0,1,53.25
+110,TCGA-49-6744,Lung Adenocarcinoma,0,1,55.29
+111,TCGA-49-6745,Lung Adenocarcinoma,0,1,17.15
+112,TCGA-49-6761,Lung Adenocarcinoma,0,1,11.63
+113,TCGA-49-6767,Lung Adenocarcinoma,0,1,22.24
+114,TCGA-49-AAQV,Lung Adenocarcinoma,0,0,22.24
+115,TCGA-49-AAR0,Lung Adenocarcinoma,0,1,156.54
+116,TCGA-49-AAR2,Lung Adenocarcinoma,0,1,73.06
+117,TCGA-49-AAR3,Lung Adenocarcinoma,0,1,62.19
+118,TCGA-49-AAR4,Lung Adenocarcinoma,0,0,28.88
+119,TCGA-49-AAR9,Lung Adenocarcinoma,0,0,8.54
+120,TCGA-49-AARE,Lung Adenocarcinoma,0,0,40.37
+121,TCGA-49-AARN,Lung Adenocarcinoma,0,0,37.29
+122,TCGA-49-AARO,Lung Adenocarcinoma,0,1,123.49
+123,TCGA-49-AARQ,Lung Adenocarcinoma,0,1,221.16
+124,TCGA-49-AARR,Lung Adenocarcinoma,0,1,163.99
+125,TCGA-4B-A93V,Lung Adenocarcinoma,0,0,9.86
+126,TCGA-50-5044,Lung Adenocarcinoma,0,0,20.5
+127,TCGA-50-5045,Lung Adenocarcinoma,0,0,71.42
+128,TCGA-50-5049,Lung Adenocarcinoma,0,1,101.64
+129,TCGA-50-5051,Lung Adenocarcinoma,0,0,15.7
+130,TCGA-50-5055,Lung Adenocarcinoma,0,0,60.12
+131,TCGA-50-5066,Lung Adenocarcinoma,0,1,47.37
+132,TCGA-50-5068,Lung Adenocarcinoma,0,0,49.24
+133,TCGA-50-5072,Lung Adenocarcinoma,0,0,8.21
+134,TCGA-50-5930,Lung Adenocarcinoma,0,0,9.26
+135,TCGA-50-5931,Lung Adenocarcinoma,0,0,14.26
+136,TCGA-50-5932,Lung Adenocarcinoma,0,0,40.57
+137,TCGA-50-5933,Lung Adenocarcinoma,0,0,78.61
+138,TCGA-50-5935,Lung Adenocarcinoma,0,0,21.45
+139,TCGA-50-5936,Lung Adenocarcinoma,0,0,8.44
+140,TCGA-50-5939,Lung Adenocarcinoma,0,0,15.11
+141,TCGA-50-5941,Lung Adenocarcinoma,0,1,48.42
+142,TCGA-50-5942,Lung Adenocarcinoma,0,1,60.68
+143,TCGA-50-5944,Lung Adenocarcinoma,0,1,57.49
+144,TCGA-50-5946,Lung Adenocarcinoma,0,1,53.12
+145,TCGA-50-6590,Lung Adenocarcinoma,0,0,42.31
+146,TCGA-50-6591,Lung Adenocarcinoma,0,0,3.91
+147,TCGA-50-6592,Lung Adenocarcinoma,0,0,25.53
+148,TCGA-50-6593,Lung Adenocarcinoma,0,0,11.04
+149,TCGA-50-6594,Lung Adenocarcinoma,0,0,12.16
+150,TCGA-50-6595,Lung Adenocarcinoma,0,0,6.21
+151,TCGA-50-6597,Lung Adenocarcinoma,0,0,41.66
+152,TCGA-50-6673,Lung Adenocarcinoma,0,0,0.72
+153,TCGA-50-7109,Lung Adenocarcinoma,0,0,10.12
+154,TCGA-50-8457,Lung Adenocarcinoma,0,1,36.96
+155,TCGA-50-8459,Lung Adenocarcinoma,0,1,36.76
+156,TCGA-50-8460,Lung Adenocarcinoma,0,1,27.23
+157,TCGA-53-7624,Lung Adenocarcinoma,0,0,34.26
+158,TCGA-53-7626,Lung Adenocarcinoma,0,0,30.52
+159,TCGA-53-7813,Lung Adenocarcinoma,0,1,13.93
+160,TCGA-53-A4EZ,Lung Adenocarcinoma,0,1,35.18
+161,TCGA-55-1592,Lung Adenocarcinoma,0,0,23.03
+162,TCGA-55-1594,Lung Adenocarcinoma,0,1,38.7
+163,TCGA-55-1595,Lung Adenocarcinoma,0,1,48.59
+164,TCGA-55-1596,Lung Adenocarcinoma,0,1,67.84
+165,TCGA-55-5899,Lung Adenocarcinoma,0,1,30.55
+166,TCGA-55-6543,Lung Adenocarcinoma,0,1,14.29
+167,TCGA-55-6642,Lung Adenocarcinoma,0,1,80.45
+168,TCGA-55-6712,Lung Adenocarcinoma,0,0,5.62
+169,TCGA-55-6968,Lung Adenocarcinoma,0,0,42.48
+170,TCGA-55-6969,Lung Adenocarcinoma,0,1,40.7
+171,TCGA-55-6970,Lung Adenocarcinoma,0,0,15.24
+172,TCGA-55-6971,Lung Adenocarcinoma,0,1,45.99
+173,TCGA-55-6972,Lung Adenocarcinoma,0,0,53.61
+174,TCGA-55-6975,Lung Adenocarcinoma,0,0,3.88
+175,TCGA-55-6978,Lung Adenocarcinoma,0,0,5.78
+176,TCGA-55-6979,Lung Adenocarcinoma,0,0,7.79
+177,TCGA-55-6980,Lung Adenocarcinoma,0,1,69.28
+178,TCGA-55-6981,Lung Adenocarcinoma,0,0,45.3
+179,TCGA-55-6982,Lung Adenocarcinoma,0,0,32.69
+180,TCGA-55-6983,Lung Adenocarcinoma,0,1,92.74
+181,TCGA-55-6984,Lung Adenocarcinoma,0,0,24.97
+182,TCGA-55-6985,Lung Adenocarcinoma,0,1,40.51
+183,TCGA-55-6986,Lung Adenocarcinoma,0,1,107.13
+184,TCGA-55-6987,Lung Adenocarcinoma,0,1,70.2
+185,TCGA-55-7227,Lung Adenocarcinoma,0,0,31.27
+186,TCGA-55-7281,Lung Adenocarcinoma,0,1,28.65
+187,TCGA-55-7283,Lung Adenocarcinoma,0,1,20.01
+188,TCGA-55-7284,Lung Adenocarcinoma,0,0,7.98
+189,TCGA-55-7570,Lung Adenocarcinoma,0,1,27.07
+190,TCGA-55-7573,Lung Adenocarcinoma,0,1,16.0
+191,TCGA-55-7574,Lung Adenocarcinoma,0,0,32.69
+192,TCGA-55-7576,Lung Adenocarcinoma,0,1,22.01
+193,TCGA-55-7724,Lung Adenocarcinoma,0,1,23.16
+194,TCGA-55-7725,Lung Adenocarcinoma,0,1,14.52
+195,TCGA-55-7726,Lung Adenocarcinoma,0,1,21.42
+196,TCGA-55-7727,Lung Adenocarcinoma,0,1,3.91
+197,TCGA-55-7728,Lung Adenocarcinoma,0,1,23.13
+198,TCGA-55-7815,Lung Adenocarcinoma,0,1,25.39
+199,TCGA-55-7816,Lung Adenocarcinoma,0,0,15.37
+200,TCGA-55-7903,Lung Adenocarcinoma,0,1,18.63
+201,TCGA-55-7907,Lung Adenocarcinoma,0,0,11.27
+202,TCGA-55-7910,Lung Adenocarcinoma,0,1,34.17
+203,TCGA-55-7911,Lung Adenocarcinoma,0,1,17.64
+204,TCGA-55-7913,Lung Adenocarcinoma,0,0,18.43
+205,TCGA-55-7914,Lung Adenocarcinoma,0,0,6.14
+206,TCGA-55-7994,Lung Adenocarcinoma,0,1,19.81
+207,TCGA-55-7995,Lung Adenocarcinoma,0,1,29.2
+208,TCGA-55-8085,Lung Adenocarcinoma,0,1,29.7
+209,TCGA-55-8087,Lung Adenocarcinoma,0,1,15.18
+210,TCGA-55-8089,Lung Adenocarcinoma,0,0,23.06
+211,TCGA-55-8090,Lung Adenocarcinoma,0,0,19.65
+212,TCGA-55-8091,Lung Adenocarcinoma,0,1,19.71
+213,TCGA-55-8092,Lung Adenocarcinoma,0,0,5.06
+214,TCGA-55-8094,Lung Adenocarcinoma,0,1,17.77
+215,TCGA-55-8096,Lung Adenocarcinoma,0,0,23.62
+216,TCGA-55-8097,Lung Adenocarcinoma,0,1,15.64
+217,TCGA-55-8203,Lung Adenocarcinoma,0,1,17.97
+218,TCGA-55-8204,Lung Adenocarcinoma,0,1,16.92
+219,TCGA-55-8205,Lung Adenocarcinoma,0,1,19.68
+220,TCGA-55-8206,Lung Adenocarcinoma,0,1,29.17
+221,TCGA-55-8207,Lung Adenocarcinoma,0,1,32.1
+222,TCGA-55-8208,Lung Adenocarcinoma,0,1,22.14
+223,TCGA-55-8299,Lung Adenocarcinoma,0,0,15.41
+224,TCGA-55-8301,Lung Adenocarcinoma,0,1,17.54
+225,TCGA-55-8302,Lung Adenocarcinoma,0,1,15.7
+226,TCGA-55-8505,Lung Adenocarcinoma,0,1,14.45
+227,TCGA-55-8506,Lung Adenocarcinoma,0,1,0.36
+228,TCGA-55-8507,Lung Adenocarcinoma,0,1,13.73
+229,TCGA-55-8508,Lung Adenocarcinoma,0,1,20.27
+230,TCGA-55-8510,Lung Adenocarcinoma,0,1,17.71
+231,TCGA-55-8511,Lung Adenocarcinoma,0,1,18.13
+232,TCGA-55-8512,Lung Adenocarcinoma,0,0,19.94
+233,TCGA-55-8513,Lung Adenocarcinoma,0,1,25.99
+234,TCGA-55-8514,Lung Adenocarcinoma,0,1,17.08
+235,TCGA-55-8614,Lung Adenocarcinoma,0,1,17.61
+236,TCGA-55-8615,Lung Adenocarcinoma,0,1,14.65
+237,TCGA-55-8616,Lung Adenocarcinoma,0,1,1.58
+238,TCGA-55-8619,Lung Adenocarcinoma,0,1,13.67
+239,TCGA-55-8620,Lung Adenocarcinoma,0,0,12.32
+240,TCGA-55-8621,Lung Adenocarcinoma,0,1,16.92
+241,TCGA-55-A48X,Lung Adenocarcinoma,0,1,22.63
+242,TCGA-55-A48Y,Lung Adenocarcinoma,0,1,20.7
+243,TCGA-55-A48Z,Lung Adenocarcinoma,0,1,21.39
+244,TCGA-55-A490,Lung Adenocarcinoma,0,0,3.25
+245,TCGA-55-A491,Lung Adenocarcinoma,0,1,20.57
+246,TCGA-55-A492,Lung Adenocarcinoma,0,1,19.58
+247,TCGA-55-A493,Lung Adenocarcinoma,0,1,0.92
+248,TCGA-55-A494,Lung Adenocarcinoma,0,1,15.8
+249,TCGA-55-A4DF,Lung Adenocarcinoma,0,0,20.17
+250,TCGA-55-A4DG,Lung Adenocarcinoma,0,1,19.97
+251,TCGA-55-A57B,Lung Adenocarcinoma,0,1,17.94
+252,TCGA-62-8394,Lung Adenocarcinoma,0,0,4.57
+253,TCGA-62-8395,Lung Adenocarcinoma,0,1,39.95
+254,TCGA-62-8397,Lung Adenocarcinoma,0,1,42.35
+255,TCGA-62-8398,Lung Adenocarcinoma,0,0,14.59
+256,TCGA-62-8399,Lung Adenocarcinoma,0,1,88.57
+257,TCGA-62-8402,Lung Adenocarcinoma,0,0,49.21
+258,TCGA-62-A46O,Lung Adenocarcinoma,0,0,47.77
+259,TCGA-62-A46P,Lung Adenocarcinoma,0,0,19.51
+260,TCGA-62-A46R,Lung Adenocarcinoma,0,0,56.67
+261,TCGA-62-A46S,Lung Adenocarcinoma,0,0,54.3
+262,TCGA-62-A46U,Lung Adenocarcinoma,0,1,67.9
+263,TCGA-62-A46V,Lung Adenocarcinoma,0,1,72.24
+264,TCGA-62-A46Y,Lung Adenocarcinoma,0,0,13.6
+265,TCGA-62-A470,Lung Adenocarcinoma,0,0,39.22
+266,TCGA-62-A471,Lung Adenocarcinoma,0,1,40.93
+267,TCGA-62-A472,Lung Adenocarcinoma,0,1,29.89
+268,TCGA-64-1676,Lung Adenocarcinoma,0,1,56.77
+269,TCGA-64-1677,Lung Adenocarcinoma,0,0,20.63
+270,TCGA-64-1678,Lung Adenocarcinoma,0,1,39.06
+271,TCGA-64-1679,Lung Adenocarcinoma,0,1,81.73
+272,TCGA-64-1680,Lung Adenocarcinoma,0,1,36.99
+273,TCGA-64-1681,Lung Adenocarcinoma,0,0,38.34
+274,TCGA-64-5774,Lung Adenocarcinoma,0,1,87.91
+275,TCGA-64-5775,Lung Adenocarcinoma,0,0,2.04
+276,TCGA-64-5778,Lung Adenocarcinoma,0,1,42.87
+277,TCGA-64-5779,Lung Adenocarcinoma,0,1,28.38
+278,TCGA-64-5781,Lung Adenocarcinoma,0,1,51.22
+279,TCGA-64-5815,Lung Adenocarcinoma,0,1,28.45
+280,TCGA-67-3770,Lung Adenocarcinoma,0,1,20.04
+281,TCGA-67-3771,Lung Adenocarcinoma,0,1,20.04
+282,TCGA-67-3772,Lung Adenocarcinoma,0,1,18.82
+283,TCGA-67-3773,Lung Adenocarcinoma,0,1,14.03
+284,TCGA-67-3774,Lung Adenocarcinoma,0,1,12.65
+285,TCGA-67-3776,Lung Adenocarcinoma,0,1,2.0
+286,TCGA-67-4679,Lung Adenocarcinoma,0,1,14.72
+287,TCGA-67-6215,Lung Adenocarcinoma,0,1,5.72
+288,TCGA-67-6216,Lung Adenocarcinoma,0,1,4.63
+289,TCGA-67-6217,Lung Adenocarcinoma,0,1,13.86
+290,TCGA-69-7760,Lung Adenocarcinoma,0,1,6.64
+291,TCGA-69-7761,Lung Adenocarcinoma,0,1,6.11
+292,TCGA-69-7763,Lung Adenocarcinoma,0,1,22.67
+293,TCGA-69-7764,Lung Adenocarcinoma,0,1,13.6
+294,TCGA-69-7765,Lung Adenocarcinoma,0,1,5.42
+295,TCGA-69-7973,Lung Adenocarcinoma,0,1,7.56
+296,TCGA-69-7974,Lung Adenocarcinoma,0,1,6.04
+297,TCGA-69-7978,Lung Adenocarcinoma,0,1,4.4
+298,TCGA-69-7979,Lung Adenocarcinoma,0,1,13.4
+299,TCGA-69-7980,Lung Adenocarcinoma,0,1,13.5
+300,TCGA-69-8253,Lung Adenocarcinoma,0,1,13.99
+301,TCGA-69-8254,Lung Adenocarcinoma,0,1,13.44
+302,TCGA-69-8255,Lung Adenocarcinoma,0,1,4.24
+303,TCGA-69-8453,Lung Adenocarcinoma,0,1,26.71
+304,TCGA-69-A59K,Lung Adenocarcinoma,0,1,19.42
+305,TCGA-71-6725,Lung Adenocarcinoma,0,1,8.41
+306,TCGA-71-8520,Lung Adenocarcinoma,0,0,6.9
+307,TCGA-73-4658,Lung Adenocarcinoma,0,0,52.56
+308,TCGA-73-4659,Lung Adenocarcinoma,0,0,23.36
+309,TCGA-73-4662,Lung Adenocarcinoma,0,1,82.62
+310,TCGA-73-4666,Lung Adenocarcinoma,0,1,26.28
+311,TCGA-73-4668,Lung Adenocarcinoma,0,1,15.34
+312,TCGA-73-4670,Lung Adenocarcinoma,0,1,4.3
+313,TCGA-73-4675,Lung Adenocarcinoma,0,0,30.29
+314,TCGA-73-4676,Lung Adenocarcinoma,0,0,9.23
+315,TCGA-73-4677,Lung Adenocarcinoma,0,0,1.25
+316,TCGA-73-7498,Lung Adenocarcinoma,0,1,39.06
+317,TCGA-73-7499,Lung Adenocarcinoma,0,0,50.3
+318,TCGA-73-A9RS,Lung Adenocarcinoma,0,0,11.17
+319,TCGA-75-5125,Lung Adenocarcinoma,0,0,66.59
+320,TCGA-75-5146,Lung Adenocarcinoma,0,1,77.79
+321,TCGA-75-5147,Lung Adenocarcinoma,0,1,43.79
+322,TCGA-75-6206,Lung Adenocarcinoma,0,1,85.09
+323,TCGA-75-6212,Lung Adenocarcinoma,0,0,49.8
+324,TCGA-75-6214,Lung Adenocarcinoma,0,0,36.63
+325,TCGA-75-7025,Lung Adenocarcinoma,0,1,108.57
+326,TCGA-75-7027,Lung Adenocarcinoma,0,1,100.49
+327,TCGA-78-7143,Lung Adenocarcinoma,0,0,162.98
+328,TCGA-78-7145,Lung Adenocarcinoma,0,0,27.14
+329,TCGA-78-7146,Lung Adenocarcinoma,0,0,5.68
+330,TCGA-78-7147,Lung Adenocarcinoma,0,0,19.25
+331,TCGA-78-7148,Lung Adenocarcinoma,0,0,20.57
+332,TCGA-78-7149,Lung Adenocarcinoma,0,1,129.43
+333,TCGA-78-7150,Lung Adenocarcinoma,0,0,21.88
+334,TCGA-78-7152,Lung Adenocarcinoma,0,0,39.91
+335,TCGA-78-7153,Lung Adenocarcinoma,0,1,119.42
+336,TCGA-78-7154,Lung Adenocarcinoma,0,0,19.48
+337,TCGA-78-7155,Lung Adenocarcinoma,0,0,38.47
+338,TCGA-78-7156,Lung Adenocarcinoma,0,0,32.06
+339,TCGA-78-7158,Lung Adenocarcinoma,0,0,5.88
+340,TCGA-78-7159,Lung Adenocarcinoma,0,1,64.85
+341,TCGA-78-7160,Lung Adenocarcinoma,0,0,22.9
+342,TCGA-78-7161,Lung Adenocarcinoma,0,0,9.56
+343,TCGA-78-7162,Lung Adenocarcinoma,0,0,104.11
+344,TCGA-78-7163,Lung Adenocarcinoma,0,1,238.11
+345,TCGA-78-7166,Lung Adenocarcinoma,0,0,8.48
+346,TCGA-78-7167,Lung Adenocarcinoma,0,0,88.07
+347,TCGA-78-7220,Lung Adenocarcinoma,0,0,26.51
+348,TCGA-78-7535,Lung Adenocarcinoma,0,0,31.18
+349,TCGA-78-7536,Lung Adenocarcinoma,0,0,8.02
+350,TCGA-78-7537,Lung Adenocarcinoma,0,0,53.29
+351,TCGA-78-7539,Lung Adenocarcinoma,0,1,25.99
+352,TCGA-78-7540,Lung Adenocarcinoma,0,0,39.32
+353,TCGA-78-7542,Lung Adenocarcinoma,0,0,10.55
+354,TCGA-78-7633,Lung Adenocarcinoma,0,0,50.2
+355,TCGA-78-8640,Lung Adenocarcinoma,0,1,232.0
+356,TCGA-78-8648,Lung Adenocarcinoma,0,0,39.72
+357,TCGA-78-8655,Lung Adenocarcinoma,0,1,77.53
+358,TCGA-78-8660,Lung Adenocarcinoma,0,0,10.55
+359,TCGA-78-8662,Lung Adenocarcinoma,0,0,110.41
+360,TCGA-80-5608,Lung Adenocarcinoma,0,1,93.04
+361,TCGA-80-5611,Lung Adenocarcinoma,0,1,85.25
+362,TCGA-83-5908,Lung Adenocarcinoma,0,1,27.07
+363,TCGA-86-6562,Lung Adenocarcinoma,0,0,12.35
+364,TCGA-86-6851,Lung Adenocarcinoma,0,1,5.88
+365,TCGA-86-7701,Lung Adenocarcinoma,0,1,31.11
+366,TCGA-86-7711,Lung Adenocarcinoma,0,0,34.36
+367,TCGA-86-7713,Lung Adenocarcinoma,0,1,38.01
+368,TCGA-86-7714,Lung Adenocarcinoma,0,0,20.53
+369,TCGA-86-7953,Lung Adenocarcinoma,0,1,32.75
+370,TCGA-86-7954,Lung Adenocarcinoma,0,1,19.88
+371,TCGA-86-7955,Lung Adenocarcinoma,0,1,35.22
+372,TCGA-86-8054,Lung Adenocarcinoma,0,1,37.71
+373,TCGA-86-8055,Lung Adenocarcinoma,0,0,4.07
+374,TCGA-86-8056,Lung Adenocarcinoma,0,1,4.57
+375,TCGA-86-8073,Lung Adenocarcinoma,0,1,24.31
+376,TCGA-86-8074,Lung Adenocarcinoma,0,1,0.79
+377,TCGA-86-8075,Lung Adenocarcinoma,0,0,22.8
+378,TCGA-86-8076,Lung Adenocarcinoma,0,1,32.62
+379,TCGA-86-8278,Lung Adenocarcinoma,0,1,31.01
+380,TCGA-86-8279,Lung Adenocarcinoma,0,1,31.18
+381,TCGA-86-8280,Lung Adenocarcinoma,0,1,23.03
+382,TCGA-86-8358,Lung Adenocarcinoma,0,1,21.45
+383,TCGA-86-8359,Lung Adenocarcinoma,0,0,14.59
+384,TCGA-86-8585,Lung Adenocarcinoma,0,1,11.6
+385,TCGA-86-8668,Lung Adenocarcinoma,0,1,13.9
+386,TCGA-86-8669,Lung Adenocarcinoma,0,1,30.81
+387,TCGA-86-8671,Lung Adenocarcinoma,0,1,27.56
+388,TCGA-86-8672,Lung Adenocarcinoma,0,0,0.62
+389,TCGA-86-8673,Lung Adenocarcinoma,0,1,28.32
+390,TCGA-86-8674,Lung Adenocarcinoma,0,1,26.48
+391,TCGA-86-A456,Lung Adenocarcinoma,0,1,29.43
+392,TCGA-86-A4D0,Lung Adenocarcinoma,0,0,3.81
+393,TCGA-86-A4JF,Lung Adenocarcinoma,0,0,24.21
+394,TCGA-86-A4P7,Lung Adenocarcinoma,0,1,13.63
+395,TCGA-86-A4P8,Lung Adenocarcinoma,0,1,26.45
+396,TCGA-91-6828,Lung Adenocarcinoma,0,1,10.61
+397,TCGA-91-6829,Lung Adenocarcinoma,0,0,41.33
+398,TCGA-91-6830,Lung Adenocarcinoma,0,1,1.97
+399,TCGA-91-6831,Lung Adenocarcinoma,0,1,10.18
+400,TCGA-91-6835,Lung Adenocarcinoma,0,1,2.6
+401,TCGA-91-6836,Lung Adenocarcinoma,0,1,13.7
+402,TCGA-91-6840,Lung Adenocarcinoma,0,1,12.22
+403,TCGA-91-6847,Lung Adenocarcinoma,0,1,27.66
+404,TCGA-91-6848,Lung Adenocarcinoma,0,1,7.36
+405,TCGA-91-6849,Lung Adenocarcinoma,0,1,1.15
+406,TCGA-91-7771,Lung Adenocarcinoma,0,1,16.16
+407,TCGA-91-8496,Lung Adenocarcinoma,0,1,16.59
+408,TCGA-91-8497,Lung Adenocarcinoma,0,0,14.26
+409,TCGA-91-8499,Lung Adenocarcinoma,0,1,1.18
+410,TCGA-91-A4BC,Lung Adenocarcinoma,0,1,1.45
+411,TCGA-91-A4BD,Lung Adenocarcinoma,0,1,19.81
+412,TCGA-93-7347,Lung Adenocarcinoma,0,1,22.44
+413,TCGA-93-7348,Lung Adenocarcinoma,0,1,17.44
+414,TCGA-93-8067,Lung Adenocarcinoma,0,1,6.11
+415,TCGA-93-A4JN,Lung Adenocarcinoma,0,1,23.59
+416,TCGA-93-A4JO,Lung Adenocarcinoma,0,0,1.08
+417,TCGA-93-A4JP,Lung Adenocarcinoma,0,1,18.99
+418,TCGA-93-A4JQ,Lung Adenocarcinoma,0,1,17.28
+419,TCGA-95-7039,Lung Adenocarcinoma,0,1,41.79
+420,TCGA-95-7043,Lung Adenocarcinoma,0,0,16.52
+421,TCGA-95-7562,Lung Adenocarcinoma,0,0,2.86
+422,TCGA-95-7567,Lung Adenocarcinoma,0,1,18.66
+423,TCGA-95-7944,Lung Adenocarcinoma,0,1,12.39
+424,TCGA-95-7947,Lung Adenocarcinoma,0,1,15.67
+425,TCGA-95-7948,Lung Adenocarcinoma,0,1,15.64
+426,TCGA-95-8039,Lung Adenocarcinoma,0,1,27.27
+427,TCGA-95-8494,Lung Adenocarcinoma,0,1,2.76
+428,TCGA-95-A4VK,Lung Adenocarcinoma,0,1,21.39
+429,TCGA-95-A4VN,Lung Adenocarcinoma,0,1,18.17
+430,TCGA-95-A4VP,Lung Adenocarcinoma,0,1,19.88
+431,TCGA-97-7546,Lung Adenocarcinoma,0,1,42.21
+432,TCGA-97-7547,Lung Adenocarcinoma,0,1,64.55
+433,TCGA-97-7552,Lung Adenocarcinoma,0,1,63.47
+434,TCGA-97-7553,Lung Adenocarcinoma,0,1,61.43
+435,TCGA-97-7554,Lung Adenocarcinoma,0,1,25.46
+436,TCGA-97-7937,Lung Adenocarcinoma,0,1,18.53
+437,TCGA-97-7938,Lung Adenocarcinoma,0,0,0.59
+438,TCGA-97-7941,Lung Adenocarcinoma,0,1,15.9
+439,TCGA-97-8171,Lung Adenocarcinoma,0,1,18.66
+440,TCGA-97-8172,Lung Adenocarcinoma,0,1,17.9
+441,TCGA-97-8174,Lung Adenocarcinoma,0,0,5.39
+442,TCGA-97-8175,Lung Adenocarcinoma,0,1,18.1
+443,TCGA-97-8176,Lung Adenocarcinoma,0,0,15.37
+444,TCGA-97-8177,Lung Adenocarcinoma,0,1,16.39
+445,TCGA-97-8179,Lung Adenocarcinoma,0,1,14.29
+446,TCGA-97-8547,Lung Adenocarcinoma,0,1,21.58
+447,TCGA-97-8552,Lung Adenocarcinoma,0,1,20.57
+448,TCGA-97-A4LX,Lung Adenocarcinoma,0,1,20.17
+449,TCGA-97-A4M0,Lung Adenocarcinoma,0,1,21.42
+450,TCGA-97-A4M1,Lung Adenocarcinoma,0,1,19.74
+451,TCGA-97-A4M2,Lung Adenocarcinoma,0,1,20.5
+452,TCGA-97-A4M3,Lung Adenocarcinoma,0,1,17.74
+453,TCGA-97-A4M5,Lung Adenocarcinoma,0,1,20.83
+454,TCGA-97-A4M6,Lung Adenocarcinoma,0,1,18.66
+455,TCGA-97-A4M7,Lung Adenocarcinoma,0,1,20.66
+456,TCGA-99-7458,Lung Adenocarcinoma,0,1,24.54
+457,TCGA-99-8025,Lung Adenocarcinoma,0,1,34.82
+458,TCGA-99-8028,Lung Adenocarcinoma,0,1,36.73
+459,TCGA-99-8032,Lung Adenocarcinoma,0,1,1.45
+460,TCGA-99-8033,Lung Adenocarcinoma,0,0,21.55
+461,TCGA-99-AA5R,Lung Adenocarcinoma,0,1,21.62
+462,TCGA-J2-8192,Lung Adenocarcinoma,0,1,24.28
+463,TCGA-J2-8194,Lung Adenocarcinoma,0,1,23.78
+464,TCGA-J2-A4AD,Lung Adenocarcinoma,0,0,18.07
+465,TCGA-J2-A4AE,Lung Adenocarcinoma,0,1,35.45
+466,TCGA-J2-A4AG,Lung Adenocarcinoma,0,1,32.46
+467,TCGA-L4-A4E5,Lung Adenocarcinoma,0,1,18.99
+468,TCGA-L4-A4E6,Lung Adenocarcinoma,0,1,14.29
+469,TCGA-L9-A443,Lung Adenocarcinoma,0,0,6.34
+470,TCGA-L9-A444,Lung Adenocarcinoma,0,1,10.09
+471,TCGA-L9-A50W,Lung Adenocarcinoma,0,0,14.52
+472,TCGA-L9-A5IP,Lung Adenocarcinoma,0,0,1.91
+473,TCGA-L9-A743,Lung Adenocarcinoma,0,1,21.81
+474,TCGA-L9-A7SV,Lung Adenocarcinoma,0,1,18.56
+475,TCGA-L9-A8F4,Lung Adenocarcinoma,0,1,15.64
+476,TCGA-MN-A4N1,Lung Adenocarcinoma,0,1,27.17
+477,TCGA-MN-A4N4,Lung Adenocarcinoma,0,1,38.6
+478,TCGA-MN-A4N5,Lung Adenocarcinoma,0,1,2.76
+479,TCGA-MP-A4SV,Lung Adenocarcinoma,0,0,86.07
+480,TCGA-MP-A4SW,Lung Adenocarcinoma,0,0,58.41
+481,TCGA-MP-A4SY,Lung Adenocarcinoma,0,0,49.31
+482,TCGA-MP-A4T2,Lung Adenocarcinoma,0,0,37.32
+483,TCGA-MP-A4T4,Lung Adenocarcinoma,0,0,85.97
+484,TCGA-MP-A4T6,Lung Adenocarcinoma,0,0,58.8
+485,TCGA-MP-A4T7,Lung Adenocarcinoma,0,0,5.49
+486,TCGA-MP-A4T8,Lung Adenocarcinoma,0,0,5.29
+487,TCGA-MP-A4T9,Lung Adenocarcinoma,0,0,41.56
+488,TCGA-MP-A4TA,Lung Adenocarcinoma,0,0,31.21
+489,TCGA-MP-A4TC,Lung Adenocarcinoma,0,0,2.43
+490,TCGA-MP-A4TD,Lung Adenocarcinoma,0,0,10.09
+491,TCGA-MP-A4TE,Lung Adenocarcinoma,0,0,29.43
+492,TCGA-MP-A4TF,Lung Adenocarcinoma,0,0,11.04
+493,TCGA-MP-A4TH,Lung Adenocarcinoma,0,1,24.34
+494,TCGA-MP-A4TI,Lung Adenocarcinoma,0,0,14.09
+495,TCGA-MP-A4TJ,Lung Adenocarcinoma,0,0,11.14
+496,TCGA-MP-A4TK,Lung Adenocarcinoma,0,0,19.12
+497,TCGA-MP-A5C7,Lung Adenocarcinoma,0,1,73.85
+498,TCGA-NJ-A4YF,Lung Adenocarcinoma,0,1,70.99
+499,TCGA-NJ-A4YG,Lung Adenocarcinoma,0,1,74.28
+500,TCGA-NJ-A4YI,Lung Adenocarcinoma,0,0,0.13
+501,TCGA-NJ-A4YP,Lung Adenocarcinoma,0,1,1.64
+502,TCGA-NJ-A4YQ,Lung Adenocarcinoma,0,1,47.04
+503,TCGA-NJ-A55A,Lung Adenocarcinoma,0,1,0.49
+504,TCGA-NJ-A55O,Lung Adenocarcinoma,0,1,0.43
+505,TCGA-NJ-A55R,Lung Adenocarcinoma,0,1,19.81
+506,TCGA-NJ-A7XG,Lung Adenocarcinoma,0,1,20.27
+507,TCGA-O1-A52J,Lung Adenocarcinoma,0,0,59.07
+508,TCGA-S2-AA1A,Lung Adenocarcinoma,0,1,16.85
+509,TCGA-18-3406,Lung Squamous Cell Carcinoma,1,0,12.19
+510,TCGA-18-3407,Lung Squamous Cell Carcinoma,1,0,4.47
+511,TCGA-18-3408,Lung Squamous Cell Carcinoma,1,0,75.69
+512,TCGA-18-3409,Lung Squamous Cell Carcinoma,1,1,123.09
+513,TCGA-18-3410,Lung Squamous Cell Carcinoma,1,0,4.8
+514,TCGA-18-3411,Lung Squamous Cell Carcinoma,1,1,117.48
+515,TCGA-18-3412,Lung Squamous Cell Carcinoma,1,0,11.33
+516,TCGA-18-3414,Lung Squamous Cell Carcinoma,1,0,23.52
+517,TCGA-18-3415,Lung Squamous Cell Carcinoma,1,0,92.08
+518,TCGA-18-3416,Lung Squamous Cell Carcinoma,1,0,31.96
+519,TCGA-18-3417,Lung Squamous Cell Carcinoma,1,0,36.04
+520,TCGA-18-3419,Lung Squamous Cell Carcinoma,1,1,92.35
+521,TCGA-18-3421,Lung Squamous Cell Carcinoma,1,1,86.89
+522,TCGA-18-4083,Lung Squamous Cell Carcinoma,1,0,6.18
+523,TCGA-18-4086,Lung Squamous Cell Carcinoma,1,0,2.79
+524,TCGA-18-4721,Lung Squamous Cell Carcinoma,1,1,154.2
+525,TCGA-18-5592,Lung Squamous Cell Carcinoma,1,1,49.9
+526,TCGA-18-5595,Lung Squamous Cell Carcinoma,1,0,27.17
+527,TCGA-21-1070,Lung Squamous Cell Carcinoma,1,1,119.45
+528,TCGA-21-1071,Lung Squamous Cell Carcinoma,1,0,46.85
+529,TCGA-21-1072,Lung Squamous Cell Carcinoma,1,1,99.08
+530,TCGA-21-1075,Lung Squamous Cell Carcinoma,1,1,70.11
+531,TCGA-21-1076,Lung Squamous Cell Carcinoma,1,1,60.84
+532,TCGA-21-1077,Lung Squamous Cell Carcinoma,1,0,34.76
+533,TCGA-21-1078,Lung Squamous Cell Carcinoma,1,0,15.57
+534,TCGA-21-1079,Lung Squamous Cell Carcinoma,1,0,31.7
+535,TCGA-21-1080,Lung Squamous Cell Carcinoma,1,1,122.34
+536,TCGA-21-1081,Lung Squamous Cell Carcinoma,1,0,9.33
+537,TCGA-21-1082,Lung Squamous Cell Carcinoma,1,1,119.71
+538,TCGA-21-1083,Lung Squamous Cell Carcinoma,1,0,43.2
+539,TCGA-21-5782,Lung Squamous Cell Carcinoma,1,0,31.6
+540,TCGA-21-5783,Lung Squamous Cell Carcinoma,1,0,88.04
+541,TCGA-21-5784,Lung Squamous Cell Carcinoma,1,1,41.66
+542,TCGA-21-5786,Lung Squamous Cell Carcinoma,1,1,33.9
+543,TCGA-21-5787,Lung Squamous Cell Carcinoma,1,0,10.81
+544,TCGA-21-A5DI,Lung Squamous Cell Carcinoma,1,1,32.16
+545,TCGA-22-0940,Lung Squamous Cell Carcinoma,1,0,21.98
+546,TCGA-22-0944,Lung Squamous Cell Carcinoma,1,0,7.33
+547,TCGA-22-1000,Lung Squamous Cell Carcinoma,1,0,14.91
+548,TCGA-22-1002,Lung Squamous Cell Carcinoma,1,0,4.3
+549,TCGA-22-1005,Lung Squamous Cell Carcinoma,1,0,64.16
+550,TCGA-22-1011,Lung Squamous Cell Carcinoma,1,0,1.74
+551,TCGA-22-1012,Lung Squamous Cell Carcinoma,1,0,14.09
+552,TCGA-22-1016,Lung Squamous Cell Carcinoma,1,0,27.0
+553,TCGA-22-1017,Lung Squamous Cell Carcinoma,1,0,48.78
+554,TCGA-22-4591,Lung Squamous Cell Carcinoma,1,0,20.47
+555,TCGA-22-4593,Lung Squamous Cell Carcinoma,1,0,35.05
+556,TCGA-22-4594,Lung Squamous Cell Carcinoma,1,0,48.29
+557,TCGA-22-4595,Lung Squamous Cell Carcinoma,1,0,24.11
+558,TCGA-22-4596,Lung Squamous Cell Carcinoma,1,0,0.56
+559,TCGA-22-4599,Lung Squamous Cell Carcinoma,1,0,38.14
+560,TCGA-22-4601,Lung Squamous Cell Carcinoma,1,0,34.72
+561,TCGA-22-4604,Lung Squamous Cell Carcinoma,1,0,13.11
+562,TCGA-22-4605,Lung Squamous Cell Carcinoma,1,0,32.0
+563,TCGA-22-4607,Lung Squamous Cell Carcinoma,1,0,19.28
+564,TCGA-22-4609,Lung Squamous Cell Carcinoma,1,0,9.56
+565,TCGA-22-4613,Lung Squamous Cell Carcinoma,1,0,11.76
+566,TCGA-22-5471,Lung Squamous Cell Carcinoma,1,1,60.61
+567,TCGA-22-5472,Lung Squamous Cell Carcinoma,1,0,64.88
+568,TCGA-22-5473,Lung Squamous Cell Carcinoma,1,0,63.5
+569,TCGA-22-5474,Lung Squamous Cell Carcinoma,1,0,14.62
+570,TCGA-22-5477,Lung Squamous Cell Carcinoma,1,0,44.22
+571,TCGA-22-5478,Lung Squamous Cell Carcinoma,1,0,0.79
+572,TCGA-22-5479,Lung Squamous Cell Carcinoma,1,0,86.24
+573,TCGA-22-5480,Lung Squamous Cell Carcinoma,1,0,71.29
+574,TCGA-22-5481,Lung Squamous Cell Carcinoma,1,0,79.14
+575,TCGA-22-5482,Lung Squamous Cell Carcinoma,1,0,11.73
+576,TCGA-22-5483,Lung Squamous Cell Carcinoma,1,0,18.82
+577,TCGA-22-5485,Lung Squamous Cell Carcinoma,1,0,30.09
+578,TCGA-22-5489,Lung Squamous Cell Carcinoma,1,0,62.81
+579,TCGA-22-5491,Lung Squamous Cell Carcinoma,1,0,56.27
+580,TCGA-22-5492,Lung Squamous Cell Carcinoma,1,0,16.62
+581,TCGA-22-A5C4,Lung Squamous Cell Carcinoma,1,1,22.04
+582,TCGA-33-4532,Lung Squamous Cell Carcinoma,1,0,128.91
+583,TCGA-33-4533,Lung Squamous Cell Carcinoma,1,1,133.64
+584,TCGA-33-4538,Lung Squamous Cell Carcinoma,1,0,97.86
+585,TCGA-33-4547,Lung Squamous Cell Carcinoma,1,1,79.47
+586,TCGA-33-4566,Lung Squamous Cell Carcinoma,1,0,173.69
+587,TCGA-33-4582,Lung Squamous Cell Carcinoma,1,0,103.45
+588,TCGA-33-4583,Lung Squamous Cell Carcinoma,1,0,151.15
+589,TCGA-33-4586,Lung Squamous Cell Carcinoma,1,0,14.06
+590,TCGA-33-4587,Lung Squamous Cell Carcinoma,1,0,54.4
+591,TCGA-33-4589,Lung Squamous Cell Carcinoma,1,0,1.54
+592,TCGA-33-6737,Lung Squamous Cell Carcinoma,1,0,19.74
+593,TCGA-33-6738,Lung Squamous Cell Carcinoma,1,1,63.3
+594,TCGA-33-A4WN,Lung Squamous Cell Carcinoma,1,0,4.7
+595,TCGA-33-A5GW,Lung Squamous Cell Carcinoma,1,0,0.3
+596,TCGA-33-AAS8,Lung Squamous Cell Carcinoma,1,0,36.6
+597,TCGA-33-AASB,Lung Squamous Cell Carcinoma,1,0,6.93
+598,TCGA-33-AASD,Lung Squamous Cell Carcinoma,1,0,110.91
+599,TCGA-33-AASI,Lung Squamous Cell Carcinoma,1,0,44.15
+600,TCGA-33-AASJ,Lung Squamous Cell Carcinoma,1,0,118.27
+601,TCGA-33-AASL,Lung Squamous Cell Carcinoma,1,0,27.14
+602,TCGA-34-2596,Lung Squamous Cell Carcinoma,1,0,2.63
+603,TCGA-34-2600,Lung Squamous Cell Carcinoma,1,0,61.56
+604,TCGA-34-2604,Lung Squamous Cell Carcinoma,1,0,31.47
+605,TCGA-34-2605,Lung Squamous Cell Carcinoma,1,0,28.94
+606,TCGA-34-2608,Lung Squamous Cell Carcinoma,1,0,32.85
+607,TCGA-34-2609,Lung Squamous Cell Carcinoma,1,0,31.24
+608,TCGA-34-5231,Lung Squamous Cell Carcinoma,1,0,65.18
+609,TCGA-34-5232,Lung Squamous Cell Carcinoma,1,1,81.18
+610,TCGA-34-5234,Lung Squamous Cell Carcinoma,1,1,74.61
+611,TCGA-34-5236,Lung Squamous Cell Carcinoma,1,0,9.07
+612,TCGA-34-5239,Lung Squamous Cell Carcinoma,1,1,60.25
+613,TCGA-34-5240,Lung Squamous Cell Carcinoma,1,1,50.62
+614,TCGA-34-5241,Lung Squamous Cell Carcinoma,1,0,16.92
+615,TCGA-34-5927,Lung Squamous Cell Carcinoma,1,1,44.71
+616,TCGA-34-5928,Lung Squamous Cell Carcinoma,1,1,39.29
+617,TCGA-34-5929,Lung Squamous Cell Carcinoma,1,0,4.96
+618,TCGA-34-7107,Lung Squamous Cell Carcinoma,1,0,1.12
+619,TCGA-34-8454,Lung Squamous Cell Carcinoma,1,1,38.76
+620,TCGA-34-8455,Lung Squamous Cell Carcinoma,1,0,4.04
+621,TCGA-34-8456,Lung Squamous Cell Carcinoma,1,1,26.41
+622,TCGA-34-A5IX,Lung Squamous Cell Carcinoma,1,1,33.87
+623,TCGA-37-3783,Lung Squamous Cell Carcinoma,1,1,4.01
+624,TCGA-37-3789,Lung Squamous Cell Carcinoma,1,1,0.43
+625,TCGA-37-3792,Lung Squamous Cell Carcinoma,1,1,0.39
+626,TCGA-37-4129,Lung Squamous Cell Carcinoma,1,1,7.95
+627,TCGA-37-4130,Lung Squamous Cell Carcinoma,1,1,8.11
+628,TCGA-37-4132,Lung Squamous Cell Carcinoma,1,1,7.46
+629,TCGA-37-4133,Lung Squamous Cell Carcinoma,1,1,7.82
+630,TCGA-37-4135,Lung Squamous Cell Carcinoma,1,1,6.8
+631,TCGA-37-4141,Lung Squamous Cell Carcinoma,1,1,0.39
+632,TCGA-37-5819,Lung Squamous Cell Carcinoma,1,1,3.38
+633,TCGA-37-A5EL,Lung Squamous Cell Carcinoma,1,0,37.55
+634,TCGA-37-A5EM,Lung Squamous Cell Carcinoma,1,1,28.48
+635,TCGA-37-A5EN,Lung Squamous Cell Carcinoma,1,1,21.68
+636,TCGA-39-5011,Lung Squamous Cell Carcinoma,1,1,133.15
+637,TCGA-39-5016,Lung Squamous Cell Carcinoma,1,1,126.48
+638,TCGA-39-5019,Lung Squamous Cell Carcinoma,1,1,111.27
+639,TCGA-39-5021,Lung Squamous Cell Carcinoma,1,0,68.53
+640,TCGA-39-5022,Lung Squamous Cell Carcinoma,1,0,55.16
+641,TCGA-39-5024,Lung Squamous Cell Carcinoma,1,1,82.46
+642,TCGA-39-5027,Lung Squamous Cell Carcinoma,1,1,102.1
+643,TCGA-39-5028,Lung Squamous Cell Carcinoma,1,0,1.71
+644,TCGA-39-5029,Lung Squamous Cell Carcinoma,1,0,24.31
+645,TCGA-39-5030,Lung Squamous Cell Carcinoma,1,0,1.94
+646,TCGA-39-5031,Lung Squamous Cell Carcinoma,1,0,60.48
+647,TCGA-39-5034,Lung Squamous Cell Carcinoma,1,0,36.37
+648,TCGA-39-5035,Lung Squamous Cell Carcinoma,1,1,68.33
+649,TCGA-39-5036,Lung Squamous Cell Carcinoma,1,1,71.12
+650,TCGA-39-5037,Lung Squamous Cell Carcinoma,1,1,55.52
+651,TCGA-39-5039,Lung Squamous Cell Carcinoma,1,0,17.87
+652,TCGA-39-5040,Lung Squamous Cell Carcinoma,1,0,17.05
+653,TCGA-43-2576,Lung Squamous Cell Carcinoma,1,1,40.18
+654,TCGA-43-2578,Lung Squamous Cell Carcinoma,1,0,22.47
+655,TCGA-43-2581,Lung Squamous Cell Carcinoma,1,1,38.63
+656,TCGA-43-3394,Lung Squamous Cell Carcinoma,1,0,39.09
+657,TCGA-43-3920,Lung Squamous Cell Carcinoma,1,1,33.08
+658,TCGA-43-5668,Lung Squamous Cell Carcinoma,1,0,18.36
+659,TCGA-43-5670,Lung Squamous Cell Carcinoma,1,1,27.89
+660,TCGA-43-6143,Lung Squamous Cell Carcinoma,1,1,22.96
+661,TCGA-43-6647,Lung Squamous Cell Carcinoma,1,1,24.87
+662,TCGA-43-6770,Lung Squamous Cell Carcinoma,1,1,21.45
+663,TCGA-43-6771,Lung Squamous Cell Carcinoma,1,0,5.45
+664,TCGA-43-6773,Lung Squamous Cell Carcinoma,1,0,3.81
+665,TCGA-43-7656,Lung Squamous Cell Carcinoma,1,1,19.58
+666,TCGA-43-7657,Lung Squamous Cell Carcinoma,1,1,7.75
+667,TCGA-43-7658,Lung Squamous Cell Carcinoma,1,0,78.12
+668,TCGA-43-8115,Lung Squamous Cell Carcinoma,1,1,13.37
+669,TCGA-43-8116,Lung Squamous Cell Carcinoma,1,1,11.76
+670,TCGA-43-8118,Lung Squamous Cell Carcinoma,1,0,2.92
+671,TCGA-43-A474,Lung Squamous Cell Carcinoma,1,1,11.6
+672,TCGA-43-A475,Lung Squamous Cell Carcinoma,1,1,9.72
+673,TCGA-43-A56U,Lung Squamous Cell Carcinoma,1,1,14.19
+674,TCGA-43-A56V,Lung Squamous Cell Carcinoma,1,1,12.02
+675,TCGA-46-3765,Lung Squamous Cell Carcinoma,1,1,13.3
+676,TCGA-46-3766,Lung Squamous Cell Carcinoma,1,1,12.16
+677,TCGA-46-3767,Lung Squamous Cell Carcinoma,1,1,13.01
+678,TCGA-46-3768,Lung Squamous Cell Carcinoma,1,0,9.82
+679,TCGA-46-3769,Lung Squamous Cell Carcinoma,1,1,4.43
+680,TCGA-46-6025,Lung Squamous Cell Carcinoma,1,1,10.64
+681,TCGA-46-6026,Lung Squamous Cell Carcinoma,1,1,13.9
+682,TCGA-51-4079,Lung Squamous Cell Carcinoma,1,0,0.39
+683,TCGA-51-4080,Lung Squamous Cell Carcinoma,1,0,0.39
+684,TCGA-51-4081,Lung Squamous Cell Carcinoma,1,1,29.93
+685,TCGA-51-6867,Lung Squamous Cell Carcinoma,1,0,60.97
+686,TCGA-52-7622,Lung Squamous Cell Carcinoma,1,1,28.32
+687,TCGA-52-7809,Lung Squamous Cell Carcinoma,1,0,5.45
+688,TCGA-52-7810,Lung Squamous Cell Carcinoma,1,1,30.32
+689,TCGA-52-7811,Lung Squamous Cell Carcinoma,1,0,8.74
+690,TCGA-52-7812,Lung Squamous Cell Carcinoma,1,0,27.43
+691,TCGA-56-1622,Lung Squamous Cell Carcinoma,1,0,28.94
+692,TCGA-56-5897,Lung Squamous Cell Carcinoma,1,1,12.42
+693,TCGA-56-5898,Lung Squamous Cell Carcinoma,1,1,18.23
+694,TCGA-56-6545,Lung Squamous Cell Carcinoma,1,1,21.88
+695,TCGA-56-7221,Lung Squamous Cell Carcinoma,1,1,19.97
+696,TCGA-56-7222,Lung Squamous Cell Carcinoma,1,0,18.46
+697,TCGA-56-7223,Lung Squamous Cell Carcinoma,1,0,14.52
+698,TCGA-56-7579,Lung Squamous Cell Carcinoma,1,0,31.24
+699,TCGA-56-7580,Lung Squamous Cell Carcinoma,1,1,30.39
+700,TCGA-56-7582,Lung Squamous Cell Carcinoma,1,1,19.74
+701,TCGA-56-7730,Lung Squamous Cell Carcinoma,1,0,6.5
+702,TCGA-56-7731,Lung Squamous Cell Carcinoma,1,0,0.1
+703,TCGA-56-7822,Lung Squamous Cell Carcinoma,1,0,17.48
+704,TCGA-56-7823,Lung Squamous Cell Carcinoma,1,1,33.21
+705,TCGA-56-8082,Lung Squamous Cell Carcinoma,1,1,14.95
+706,TCGA-56-8083,Lung Squamous Cell Carcinoma,1,1,4.93
+707,TCGA-56-8201,Lung Squamous Cell Carcinoma,1,0,13.04
+708,TCGA-56-8304,Lung Squamous Cell Carcinoma,1,1,3.48
+709,TCGA-56-8305,Lung Squamous Cell Carcinoma,1,1,3.45
+710,TCGA-56-8307,Lung Squamous Cell Carcinoma,1,1,26.87
+711,TCGA-56-8308,Lung Squamous Cell Carcinoma,1,1,16.98
+712,TCGA-56-8309,Lung Squamous Cell Carcinoma,1,1,14.06
+713,TCGA-56-8503,Lung Squamous Cell Carcinoma,1,1,1.35
+714,TCGA-56-8504,Lung Squamous Cell Carcinoma,1,1,16.75
+715,TCGA-56-8622,Lung Squamous Cell Carcinoma,1,1,1.81
+716,TCGA-56-8623,Lung Squamous Cell Carcinoma,1,0,22.73
+717,TCGA-56-8624,Lung Squamous Cell Carcinoma,1,1,13.8
+718,TCGA-56-8625,Lung Squamous Cell Carcinoma,1,0,10.35
+719,TCGA-56-8626,Lung Squamous Cell Carcinoma,1,0,9.92
+720,TCGA-56-8628,Lung Squamous Cell Carcinoma,1,1,20.24
+721,TCGA-56-8629,Lung Squamous Cell Carcinoma,1,1,15.8
+722,TCGA-56-A49D,Lung Squamous Cell Carcinoma,1,1,20.93
+723,TCGA-56-A4BW,Lung Squamous Cell Carcinoma,1,1,19.22
+724,TCGA-56-A4BX,Lung Squamous Cell Carcinoma,1,1,13.3
+725,TCGA-56-A4BY,Lung Squamous Cell Carcinoma,1,0,17.84
+726,TCGA-56-A4ZJ,Lung Squamous Cell Carcinoma,1,1,21.02
+727,TCGA-56-A4ZK,Lung Squamous Cell Carcinoma,1,1,18.73
+728,TCGA-56-A5DR,Lung Squamous Cell Carcinoma,1,1,0.13
+729,TCGA-56-A5DS,Lung Squamous Cell Carcinoma,1,1,0.26
+730,TCGA-56-A62T,Lung Squamous Cell Carcinoma,1,1,14.45
+731,TCGA-58-8386,Lung Squamous Cell Carcinoma,1,0,0.03
+732,TCGA-58-8387,Lung Squamous Cell Carcinoma,1,0,13.24
+733,TCGA-58-8388,Lung Squamous Cell Carcinoma,1,0,13.53
+734,TCGA-58-8390,Lung Squamous Cell Carcinoma,1,1,29.93
+735,TCGA-58-8391,Lung Squamous Cell Carcinoma,1,1,71.19
+736,TCGA-58-8392,Lung Squamous Cell Carcinoma,1,0,16.46
+737,TCGA-58-8393,Lung Squamous Cell Carcinoma,1,1,34.76
+738,TCGA-58-A46J,Lung Squamous Cell Carcinoma,1,1,85.05
+739,TCGA-58-A46K,Lung Squamous Cell Carcinoma,1,0,34.33
+740,TCGA-58-A46L,Lung Squamous Cell Carcinoma,1,1,56.6
+741,TCGA-58-A46M,Lung Squamous Cell Carcinoma,1,1,35.22
+742,TCGA-58-A46N,Lung Squamous Cell Carcinoma,1,1,29.89
+743,TCGA-60-2695,Lung Squamous Cell Carcinoma,1,1,21.09
+744,TCGA-60-2696,Lung Squamous Cell Carcinoma,1,0,3.58
+745,TCGA-60-2697,Lung Squamous Cell Carcinoma,1,0,12.22
+746,TCGA-60-2698,Lung Squamous Cell Carcinoma,1,0,10.22
+747,TCGA-60-2703,Lung Squamous Cell Carcinoma,1,0,96.75
+748,TCGA-60-2704,Lung Squamous Cell Carcinoma,1,0,37.91
+749,TCGA-60-2706,Lung Squamous Cell Carcinoma,1,1,92.64
+750,TCGA-60-2707,Lung Squamous Cell Carcinoma,1,0,21.91
+751,TCGA-60-2708,Lung Squamous Cell Carcinoma,1,1,80.39
+752,TCGA-60-2709,Lung Squamous Cell Carcinoma,1,1,49.44
+753,TCGA-60-2710,Lung Squamous Cell Carcinoma,1,1,66.49
+754,TCGA-60-2711,Lung Squamous Cell Carcinoma,1,1,41.39
+755,TCGA-60-2712,Lung Squamous Cell Carcinoma,1,0,9.0
+756,TCGA-60-2713,Lung Squamous Cell Carcinoma,1,1,56.87
+757,TCGA-60-2714,Lung Squamous Cell Carcinoma,1,1,50.3
+758,TCGA-60-2715,Lung Squamous Cell Carcinoma,1,0,35.32
+759,TCGA-60-2716,Lung Squamous Cell Carcinoma,1,1,48.46
+760,TCGA-60-2719,Lung Squamous Cell Carcinoma,1,1,42.61
+761,TCGA-60-2720,Lung Squamous Cell Carcinoma,1,1,3.19
+762,TCGA-60-2721,Lung Squamous Cell Carcinoma,1,1,32.29
+763,TCGA-60-2722,Lung Squamous Cell Carcinoma,1,1,29.83
+764,TCGA-60-2723,Lung Squamous Cell Carcinoma,1,1,35.87
+765,TCGA-60-2724,Lung Squamous Cell Carcinoma,1,1,23.55
+766,TCGA-60-2725,Lung Squamous Cell Carcinoma,1,1,26.81
+767,TCGA-60-2726,Lung Squamous Cell Carcinoma,1,0,11.76
+768,TCGA-63-6202,Lung Squamous Cell Carcinoma,1,1,52.63
+769,TCGA-63-7020,Lung Squamous Cell Carcinoma,1,1,70.07
+770,TCGA-63-7021,Lung Squamous Cell Carcinoma,1,1,70.37
+771,TCGA-63-7022,Lung Squamous Cell Carcinoma,1,1,68.1
+772,TCGA-63-7023,Lung Squamous Cell Carcinoma,1,1,55.26
+773,TCGA-63-A5MB,Lung Squamous Cell Carcinoma,1,1,102.6
+774,TCGA-63-A5MG,Lung Squamous Cell Carcinoma,1,1,70.57
+775,TCGA-63-A5MH,Lung Squamous Cell Carcinoma,1,1,66.56
+776,TCGA-63-A5MI,Lung Squamous Cell Carcinoma,1,1,58.61
+777,TCGA-63-A5MJ,Lung Squamous Cell Carcinoma,1,1,59.92
+778,TCGA-63-A5ML,Lung Squamous Cell Carcinoma,1,1,45.53
+779,TCGA-63-A5MM,Lung Squamous Cell Carcinoma,1,0,14.98
+780,TCGA-63-A5MN,Lung Squamous Cell Carcinoma,1,0,11.33
+781,TCGA-63-A5MP,Lung Squamous Cell Carcinoma,1,1,25.26
+782,TCGA-63-A5MR,Lung Squamous Cell Carcinoma,1,1,89.22
+783,TCGA-63-A5MS,Lung Squamous Cell Carcinoma,1,1,78.22
+784,TCGA-63-A5MT,Lung Squamous Cell Carcinoma,1,1,16.36
+785,TCGA-63-A5MV,Lung Squamous Cell Carcinoma,1,1,36.14
+786,TCGA-63-A5MW,Lung Squamous Cell Carcinoma,1,1,53.84
+787,TCGA-63-A5MY,Lung Squamous Cell Carcinoma,1,1,34.56
+788,TCGA-66-2727,Lung Squamous Cell Carcinoma,1,0,16.95
+789,TCGA-66-2734,Lung Squamous Cell Carcinoma,1,1,43.07
+790,TCGA-66-2737,Lung Squamous Cell Carcinoma,1,1,2.0
+791,TCGA-66-2742,Lung Squamous Cell Carcinoma,1,1,21.06
+792,TCGA-66-2744,Lung Squamous Cell Carcinoma,1,1,0.99
+793,TCGA-66-2753,Lung Squamous Cell Carcinoma,1,1,1.02
+794,TCGA-66-2754,Lung Squamous Cell Carcinoma,1,1,2.0
+795,TCGA-66-2755,Lung Squamous Cell Carcinoma,1,1,0.92
+796,TCGA-66-2756,Lung Squamous Cell Carcinoma,1,1,0.99
+797,TCGA-66-2757,Lung Squamous Cell Carcinoma,1,0,43.96
+798,TCGA-66-2758,Lung Squamous Cell Carcinoma,1,1,20.99
+799,TCGA-66-2759,Lung Squamous Cell Carcinoma,1,1,25.03
+800,TCGA-66-2763,Lung Squamous Cell Carcinoma,1,1,0.99
+801,TCGA-66-2765,Lung Squamous Cell Carcinoma,1,1,2.0
+802,TCGA-66-2766,Lung Squamous Cell Carcinoma,1,1,1.02
+803,TCGA-66-2767,Lung Squamous Cell Carcinoma,1,1,2.0
+804,TCGA-66-2768,Lung Squamous Cell Carcinoma,1,1,2.0
+805,TCGA-66-2769,Lung Squamous Cell Carcinoma,1,0,7.06
+806,TCGA-66-2770,Lung Squamous Cell Carcinoma,1,1,23.0
+807,TCGA-66-2771,Lung Squamous Cell Carcinoma,1,1,18.99
+808,TCGA-66-2773,Lung Squamous Cell Carcinoma,1,0,3.02
+809,TCGA-66-2777,Lung Squamous Cell Carcinoma,1,1,2.0
+810,TCGA-66-2778,Lung Squamous Cell Carcinoma,1,1,18.99
+811,TCGA-66-2780,Lung Squamous Cell Carcinoma,1,0,12.02
+812,TCGA-66-2781,Lung Squamous Cell Carcinoma,1,1,3.98
+813,TCGA-66-2782,Lung Squamous Cell Carcinoma,1,0,11.99
+814,TCGA-66-2783,Lung Squamous Cell Carcinoma,1,1,24.93
+815,TCGA-66-2785,Lung Squamous Cell Carcinoma,1,1,1.97
+816,TCGA-66-2786,Lung Squamous Cell Carcinoma,1,1,25.95
+817,TCGA-66-2787,Lung Squamous Cell Carcinoma,1,1,39.98
+818,TCGA-66-2788,Lung Squamous Cell Carcinoma,1,1,22.96
+819,TCGA-66-2789,Lung Squamous Cell Carcinoma,1,0,4.04
+820,TCGA-66-2790,Lung Squamous Cell Carcinoma,1,1,22.96
+821,TCGA-66-2791,Lung Squamous Cell Carcinoma,1,0,5.03
+822,TCGA-66-2792,Lung Squamous Cell Carcinoma,1,1,29.99
+823,TCGA-66-2793,Lung Squamous Cell Carcinoma,1,0,10.05
+824,TCGA-66-2794,Lung Squamous Cell Carcinoma,1,1,54.04
+825,TCGA-66-2795,Lung Squamous Cell Carcinoma,1,1,4.01
+826,TCGA-66-2800,Lung Squamous Cell Carcinoma,1,1,49.01
+827,TCGA-68-7755,Lung Squamous Cell Carcinoma,1,1,2.73
+828,TCGA-68-7756,Lung Squamous Cell Carcinoma,1,1,6.64
+829,TCGA-68-7757,Lung Squamous Cell Carcinoma,1,1,6.93
+830,TCGA-68-8250,Lung Squamous Cell Carcinoma,1,1,8.02
+831,TCGA-68-8251,Lung Squamous Cell Carcinoma,1,1,13.34
+832,TCGA-68-A59I,Lung Squamous Cell Carcinoma,1,1,16.16
+833,TCGA-68-A59J,Lung Squamous Cell Carcinoma,1,1,14.72
+834,TCGA-70-6722,Lung Squamous Cell Carcinoma,1,1,12.06
+835,TCGA-70-6723,Lung Squamous Cell Carcinoma,1,1,12.32
+836,TCGA-77-6842,Lung Squamous Cell Carcinoma,1,0,29.53
+837,TCGA-77-6843,Lung Squamous Cell Carcinoma,1,0,73.06
+838,TCGA-77-6844,Lung Squamous Cell Carcinoma,1,0,75.03
+839,TCGA-77-6845,Lung Squamous Cell Carcinoma,1,0,23.26
+840,TCGA-77-7138,Lung Squamous Cell Carcinoma,1,0,11.17
+841,TCGA-77-7139,Lung Squamous Cell Carcinoma,1,1,139.98
+842,TCGA-77-7140,Lung Squamous Cell Carcinoma,1,0,20.76
+843,TCGA-77-7141,Lung Squamous Cell Carcinoma,1,1,0.49
+844,TCGA-77-7142,Lung Squamous Cell Carcinoma,1,1,73.16
+845,TCGA-77-7335,Lung Squamous Cell Carcinoma,1,0,70.07
+846,TCGA-77-7337,Lung Squamous Cell Carcinoma,1,0,106.87
+847,TCGA-77-7338,Lung Squamous Cell Carcinoma,1,0,0.16
+848,TCGA-77-7463,Lung Squamous Cell Carcinoma,1,0,46.75
+849,TCGA-77-7465,Lung Squamous Cell Carcinoma,1,1,32.52
+850,TCGA-77-8007,Lung Squamous Cell Carcinoma,1,0,6.5
+851,TCGA-77-8008,Lung Squamous Cell Carcinoma,1,0,86.7
+852,TCGA-77-8009,Lung Squamous Cell Carcinoma,1,0,55.68
+853,TCGA-77-8128,Lung Squamous Cell Carcinoma,1,0,37.78
+854,TCGA-77-8130,Lung Squamous Cell Carcinoma,1,1,156.54
+855,TCGA-77-8131,Lung Squamous Cell Carcinoma,1,0,12.58
+856,TCGA-77-8133,Lung Squamous Cell Carcinoma,1,0,53.88
+857,TCGA-77-8136,Lung Squamous Cell Carcinoma,1,0,39.06
+858,TCGA-77-8138,Lung Squamous Cell Carcinoma,1,0,17.71
+859,TCGA-77-8139,Lung Squamous Cell Carcinoma,1,1,104.01
+860,TCGA-77-8140,Lung Squamous Cell Carcinoma,1,0,11.53
+861,TCGA-77-8143,Lung Squamous Cell Carcinoma,1,0,26.38
+862,TCGA-77-8144,Lung Squamous Cell Carcinoma,1,1,27.37
+863,TCGA-77-8145,Lung Squamous Cell Carcinoma,1,0,6.96
+864,TCGA-77-8146,Lung Squamous Cell Carcinoma,1,1,104.76
+865,TCGA-77-8148,Lung Squamous Cell Carcinoma,1,1,66.46
+866,TCGA-77-8150,Lung Squamous Cell Carcinoma,1,0,54.37
+867,TCGA-77-8153,Lung Squamous Cell Carcinoma,1,1,65.44
+868,TCGA-77-8154,Lung Squamous Cell Carcinoma,1,1,60.48
+869,TCGA-77-8156,Lung Squamous Cell Carcinoma,1,1,36.33
+870,TCGA-77-A5FZ,Lung Squamous Cell Carcinoma,1,0,126.08
+871,TCGA-77-A5G1,Lung Squamous Cell Carcinoma,1,1,132.26
+872,TCGA-77-A5G3,Lung Squamous Cell Carcinoma,1,1,150.13
+873,TCGA-77-A5G6,Lung Squamous Cell Carcinoma,1,0,22.27
+874,TCGA-77-A5G7,Lung Squamous Cell Carcinoma,1,0,5.91
+875,TCGA-77-A5G8,Lung Squamous Cell Carcinoma,1,1,61.89
+876,TCGA-77-A5GA,Lung Squamous Cell Carcinoma,1,1,42.05
+877,TCGA-77-A5GB,Lung Squamous Cell Carcinoma,1,0,30.78
+878,TCGA-77-A5GF,Lung Squamous Cell Carcinoma,1,0,27.6
+879,TCGA-77-A5GH,Lung Squamous Cell Carcinoma,1,1,38.83
+880,TCGA-85-6175,Lung Squamous Cell Carcinoma,1,0,9.66
+881,TCGA-85-6560,Lung Squamous Cell Carcinoma,1,1,41.36
+882,TCGA-85-6561,Lung Squamous Cell Carcinoma,1,1,40.21
+883,TCGA-85-6798,Lung Squamous Cell Carcinoma,1,0,6.41
+884,TCGA-85-7696,Lung Squamous Cell Carcinoma,1,1,36.5
+885,TCGA-85-7697,Lung Squamous Cell Carcinoma,1,1,34.92
+886,TCGA-85-7698,Lung Squamous Cell Carcinoma,1,1,31.27
+887,TCGA-85-7699,Lung Squamous Cell Carcinoma,1,0,32.88
+888,TCGA-85-7710,Lung Squamous Cell Carcinoma,1,1,1.38
+889,TCGA-85-7843,Lung Squamous Cell Carcinoma,1,1,1.15
+890,TCGA-85-7844,Lung Squamous Cell Carcinoma,1,1,29.93
+891,TCGA-85-7950,Lung Squamous Cell Carcinoma,1,1,18.92
+892,TCGA-85-8048,Lung Squamous Cell Carcinoma,1,1,25.13
+893,TCGA-85-8049,Lung Squamous Cell Carcinoma,1,1,19.02
+894,TCGA-85-8052,Lung Squamous Cell Carcinoma,1,1,24.11
+895,TCGA-85-8070,Lung Squamous Cell Carcinoma,1,1,31.54
+896,TCGA-85-8071,Lung Squamous Cell Carcinoma,1,1,26.77
+897,TCGA-85-8072,Lung Squamous Cell Carcinoma,1,1,30.62
+898,TCGA-85-8276,Lung Squamous Cell Carcinoma,1,1,34.49
+899,TCGA-85-8277,Lung Squamous Cell Carcinoma,1,0,10.09
+900,TCGA-85-8287,Lung Squamous Cell Carcinoma,1,0,0.76
+901,TCGA-85-8288,Lung Squamous Cell Carcinoma,1,0,13.21
+902,TCGA-85-8350,Lung Squamous Cell Carcinoma,1,1,22.44
+903,TCGA-85-8351,Lung Squamous Cell Carcinoma,1,1,16.75
+904,TCGA-85-8352,Lung Squamous Cell Carcinoma,1,0,5.29
+905,TCGA-85-8353,Lung Squamous Cell Carcinoma,1,0,3.09
+906,TCGA-85-8354,Lung Squamous Cell Carcinoma,1,1,32.69
+907,TCGA-85-8355,Lung Squamous Cell Carcinoma,1,1,2.0
+908,TCGA-85-8479,Lung Squamous Cell Carcinoma,1,1,15.37
+909,TCGA-85-8481,Lung Squamous Cell Carcinoma,1,0,7.75
+910,TCGA-85-8580,Lung Squamous Cell Carcinoma,1,1,36.56
+911,TCGA-85-8582,Lung Squamous Cell Carcinoma,1,1,38.11
+912,TCGA-85-8584,Lung Squamous Cell Carcinoma,1,0,12.58
+913,TCGA-85-8664,Lung Squamous Cell Carcinoma,1,0,18.07
+914,TCGA-85-8666,Lung Squamous Cell Carcinoma,1,0,22.57
+915,TCGA-85-A4CL,Lung Squamous Cell Carcinoma,1,0,30.26
+916,TCGA-85-A4CN,Lung Squamous Cell Carcinoma,1,1,34.1
+917,TCGA-85-A4JB,Lung Squamous Cell Carcinoma,1,1,30.95
+918,TCGA-85-A4JC,Lung Squamous Cell Carcinoma,1,0,19.84
+919,TCGA-85-A4PA,Lung Squamous Cell Carcinoma,1,1,24.34
+920,TCGA-85-A4QQ,Lung Squamous Cell Carcinoma,1,0,30.45
+921,TCGA-85-A4QR,Lung Squamous Cell Carcinoma,1,1,19.71
+922,TCGA-85-A50M,Lung Squamous Cell Carcinoma,1,0,27.14
+923,TCGA-85-A50Z,Lung Squamous Cell Carcinoma,1,1,16.2
+924,TCGA-85-A510,Lung Squamous Cell Carcinoma,1,1,15.83
+925,TCGA-85-A511,Lung Squamous Cell Carcinoma,1,0,14.95
+926,TCGA-85-A512,Lung Squamous Cell Carcinoma,1,1,15.28
+927,TCGA-85-A513,Lung Squamous Cell Carcinoma,1,1,29.89
+928,TCGA-85-A53L,Lung Squamous Cell Carcinoma,1,1,12.39
+929,TCGA-85-A5B5,Lung Squamous Cell Carcinoma,1,1,3.65
+930,TCGA-90-6837,Lung Squamous Cell Carcinoma,1,1,24.9
+931,TCGA-90-7766,Lung Squamous Cell Carcinoma,1,1,9.49
+932,TCGA-90-7767,Lung Squamous Cell Carcinoma,1,1,2.92
+933,TCGA-90-7769,Lung Squamous Cell Carcinoma,1,1,11.76
+934,TCGA-90-7964,Lung Squamous Cell Carcinoma,1,1,14.06
+935,TCGA-90-A4ED,Lung Squamous Cell Carcinoma,1,1,20.2
+936,TCGA-90-A4EE,Lung Squamous Cell Carcinoma,1,1,22.6
+937,TCGA-90-A59Q,Lung Squamous Cell Carcinoma,1,0,10.58
+938,TCGA-92-7340,Lung Squamous Cell Carcinoma,1,1,2.69
+939,TCGA-92-7341,Lung Squamous Cell Carcinoma,1,1,3.48
+940,TCGA-92-8063,Lung Squamous Cell Carcinoma,1,1,4.01
+941,TCGA-92-8064,Lung Squamous Cell Carcinoma,1,1,5.26
+942,TCGA-92-8065,Lung Squamous Cell Carcinoma,1,1,2.3
+943,TCGA-94-7033,Lung Squamous Cell Carcinoma,1,1,21.02
+944,TCGA-94-7557,Lung Squamous Cell Carcinoma,1,0,0.16
+945,TCGA-94-7943,Lung Squamous Cell Carcinoma,1,1,18.36
+946,TCGA-94-8035,Lung Squamous Cell Carcinoma,1,1,4.01
+947,TCGA-94-8490,Lung Squamous Cell Carcinoma,1,1,5.03
+948,TCGA-94-8491,Lung Squamous Cell Carcinoma,1,1,26.61
+949,TCGA-94-A4VJ,Lung Squamous Cell Carcinoma,1,1,14.13
+950,TCGA-94-A5I4,Lung Squamous Cell Carcinoma,1,1,16.13
+951,TCGA-94-A5I6,Lung Squamous Cell Carcinoma,1,1,17.67
+952,TCGA-96-7544,Lung Squamous Cell Carcinoma,1,0,70.96
+953,TCGA-96-7545,Lung Squamous Cell Carcinoma,1,0,57.03
+954,TCGA-96-8169,Lung Squamous Cell Carcinoma,1,1,18.3
+955,TCGA-96-8170,Lung Squamous Cell Carcinoma,1,1,17.44
+956,TCGA-96-A4JK,Lung Squamous Cell Carcinoma,1,1,19.35
+957,TCGA-96-A4JL,Lung Squamous Cell Carcinoma,1,1,27.66
+958,TCGA-98-7454,Lung Squamous Cell Carcinoma,1,1,21.42
+959,TCGA-98-8020,Lung Squamous Cell Carcinoma,1,0,2.76
+960,TCGA-98-8021,Lung Squamous Cell Carcinoma,1,1,30.78
+961,TCGA-98-8022,Lung Squamous Cell Carcinoma,1,0,30.65
+962,TCGA-98-8023,Lung Squamous Cell Carcinoma,1,1,21.32
+963,TCGA-98-A538,Lung Squamous Cell Carcinoma,1,1,27.14
+964,TCGA-98-A539,Lung Squamous Cell Carcinoma,1,1,5.68
+965,TCGA-98-A53A,Lung Squamous Cell Carcinoma,1,0,18.13
+966,TCGA-98-A53B,Lung Squamous Cell Carcinoma,1,0,2.0
+967,TCGA-98-A53C,Lung Squamous Cell Carcinoma,1,1,27.0
+968,TCGA-98-A53D,Lung Squamous Cell Carcinoma,1,0,21.19
+969,TCGA-98-A53H,Lung Squamous Cell Carcinoma,1,1,20.3
+970,TCGA-98-A53I,Lung Squamous Cell Carcinoma,1,1,18.56
+971,TCGA-98-A53J,Lung Squamous Cell Carcinoma,1,1,20.7
+972,TCGA-J1-A4AH,Lung Squamous Cell Carcinoma,1,1,19.09
+973,TCGA-L3-A4E7,Lung Squamous Cell Carcinoma,1,1,12.88
+974,TCGA-L3-A524,Lung Squamous Cell Carcinoma,1,0,16.1
+975,TCGA-LA-A446,Lung Squamous Cell Carcinoma,1,1,13.17
+976,TCGA-LA-A7SW,Lung Squamous Cell Carcinoma,1,0,13.4
+977,TCGA-MF-A522,Lung Squamous Cell Carcinoma,1,0,11.83
+978,TCGA-NC-A5HD,Lung Squamous Cell Carcinoma,1,0,0.07
+979,TCGA-NC-A5HE,Lung Squamous Cell Carcinoma,1,1,76.74
+980,TCGA-NC-A5HF,Lung Squamous Cell Carcinoma,1,0,4.53
+981,TCGA-NC-A5HG,Lung Squamous Cell Carcinoma,1,1,64.49
+982,TCGA-NC-A5HH,Lung Squamous Cell Carcinoma,1,1,1.22
+983,TCGA-NC-A5HI,Lung Squamous Cell Carcinoma,1,1,57.26
+984,TCGA-NC-A5HJ,Lung Squamous Cell Carcinoma,1,0,13.73
+985,TCGA-NC-A5HK,Lung Squamous Cell Carcinoma,1,1,4.2
+986,TCGA-NC-A5HL,Lung Squamous Cell Carcinoma,1,0,2.89
+987,TCGA-NC-A5HM,Lung Squamous Cell Carcinoma,1,1,39.82
+988,TCGA-NC-A5HN,Lung Squamous Cell Carcinoma,1,1,49.24
+989,TCGA-NC-A5HO,Lung Squamous Cell Carcinoma,1,1,43.89
+990,TCGA-NC-A5HP,Lung Squamous Cell Carcinoma,1,0,25.3
+991,TCGA-NC-A5HQ,Lung Squamous Cell Carcinoma,1,0,14.72
+992,TCGA-NC-A5HR,Lung Squamous Cell Carcinoma,1,1,40.87
+993,TCGA-NC-A5HT,Lung Squamous Cell Carcinoma,1,1,26.41
+994,TCGA-NK-A5CR,Lung Squamous Cell Carcinoma,1,1,83.51
+995,TCGA-NK-A5CT,Lung Squamous Cell Carcinoma,1,1,65.6
+996,TCGA-NK-A5CX,Lung Squamous Cell Carcinoma,1,1,3.65
+997,TCGA-NK-A5D1,Lung Squamous Cell Carcinoma,1,1,16.79
+998,TCGA-NK-A7XE,Lung Squamous Cell Carcinoma,1,1,0.43
+999,TCGA-O2-A52N,Lung Squamous Cell Carcinoma,1,0,33.05
+1000,TCGA-O2-A52Q,Lung Squamous Cell Carcinoma,1,0,3.71
+1001,TCGA-O2-A52S,Lung Squamous Cell Carcinoma,1,0,12.71
+1002,TCGA-O2-A52V,Lung Squamous Cell Carcinoma,1,0,43.86
+1003,TCGA-O2-A52W,Lung Squamous Cell Carcinoma,1,0,8.57
+1004,TCGA-O2-A5IB,Lung Squamous Cell Carcinoma,1,0,11.17
+1005,TCGA-XC-AA0X,Lung Squamous Cell Carcinoma,1,0,0.2
